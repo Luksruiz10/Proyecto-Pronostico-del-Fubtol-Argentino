@@ -1,0 +1,1123 @@
+,Equipo1,Equipo2,PJ,PV,PE,PD,PGF,PGC
+0,Boca Juniors,River Plate,27,29.63,29.63,40.74,0.85,1.15
+1,Boca Juniors,Racing Club,20,25.0,40.0,35.0,1.0,0.95
+2,Boca Juniors,Defensa y Justicia,14,50.0,35.71,14.29,0.93,0.5
+3,Boca Juniors,Unión,14,50.0,21.43,28.57,1.43,1.0
+4,Boca Juniors,Lanús,14,42.86,21.43,35.71,1.21,1.07
+5,Boca Juniors,Estudiantes (LP),14,35.71,28.57,35.71,0.86,0.79
+6,Boca Juniors,Newell's Old Boys,13,69.23,23.08,7.69,1.69,0.62
+7,Boca Juniors,Huracán,13,38.46,53.85,7.69,1.08,0.46
+8,Boca Juniors,Godoy Cruz,12,75.0,16.67,8.33,1.92,0.83
+9,Boca Juniors,Tigre,12,66.67,8.33,25.0,1.75,1.0
+10,Boca Juniors,Rosario Central,12,33.33,41.67,25.0,1.17,1.0
+11,Boca Juniors,Vélez Sarsfield,11,63.64,18.18,18.18,1.91,0.64
+12,Boca Juniors,San Lorenzo,11,45.45,18.18,36.36,1.36,1.09
+13,Boca Juniors,Independiente,11,27.27,54.55,18.18,1.09,0.73
+14,Boca Juniors,Gimnasia y Esgrima (LP),10,60.0,20.0,20.0,1.7,1.0
+15,Boca Juniors,Atlético Tucumán,10,50.0,20.0,30.0,1.4,1.0
+16,Boca Juniors,Argentinos Juniors,10,40.0,30.0,30.0,0.8,0.8
+17,Boca Juniors,Colón,9,66.67,22.22,11.11,2.11,0.78
+18,Boca Juniors,Sarmiento,9,66.67,22.22,11.11,1.33,0.33
+19,Boca Juniors,Banfield,9,66.67,11.11,22.22,1.33,0.44
+20,Boca Juniors,Talleres,9,44.44,22.22,33.33,1.0,0.89
+21,Boca Juniors,Central Córdoba (SdE),8,75.0,12.5,12.5,2.88,0.62
+22,Boca Juniors,Aldosivi,8,75.0,12.5,12.5,2.25,0.88
+23,Boca Juniors,Arsenal de Sarandí,8,62.5,25.0,12.5,2.12,0.88
+24,Boca Juniors,Belgrano,8,62.5,12.5,25.0,2.12,1.12
+25,Boca Juniors,Patronato,7,57.14,14.29,28.57,1.0,0.71
+26,Boca Juniors,Platense,6,66.67,16.67,16.67,1.83,0.83
+28,Boca Juniors,San Martín de San Juan,5,80.0,20.0,0.0,2.4,0.8
+30,Boca Juniors,Barracas Central,4,75.0,25.0,0.0,2.25,0.5
+31,Boca Juniors,Club Atlético Temperley,4,75.0,25.0,0.0,1.75,0.0
+40,Boca Juniors,Club Olimpo,3,66.67,33.33,0.0,2.67,1.0
+41,Boca Juniors,Atlético de Rafaela,3,66.67,33.33,0.0,1.33,0.0
+50,Boca Juniors,Quilmes,2,100.0,0.0,0.0,3.0,1.0
+66,Boca Juniors,Instituto,2,0.0,50.0,50.0,1.0,1.5
+67,Boca Juniors,Crucero del Norte,1,100.0,0.0,0.0,1.0,0.0
+68,Boca Juniors,San Martín de Tucumán,1,100.0,0.0,0.0,4.0,1.0
+69,Boca Juniors,Chacarita Juniors,1,100.0,0.0,0.0,1.0,0.0
+70,Boca Juniors,Club Atlético Nueva Chicago,1,0.0,100.0,0.0,0.0,0.0
+71,Boca Juniors,Deportivo Riestra,1,0.0,100.0,0.0,1.0,1.0
+72,Boca Juniors,Independiente Rivadavia,1,0.0,100.0,0.0,1.0,1.0
+74,Banfield,Lanús,17,35.29,29.41,35.29,0.88,1.0
+75,Banfield,San Lorenzo,14,21.43,42.86,35.71,0.79,0.93
+76,Banfield,River Plate,14,14.29,28.57,57.14,0.93,1.93
+77,Banfield,Gimnasia y Esgrima (LP),13,69.23,15.38,15.38,1.38,0.62
+78,Banfield,Rosario Central,13,46.15,30.77,23.08,1.62,0.92
+79,Banfield,Argentinos Juniors,13,15.38,23.08,61.54,0.85,1.54
+80,Banfield,Defensa y Justicia,13,7.69,23.08,69.23,0.46,1.31
+81,Banfield,Godoy Cruz,12,33.33,33.33,33.33,1.25,1.42
+82,Banfield,Vélez Sarsfield,12,33.33,33.33,33.33,1.08,1.17
+83,Banfield,Independiente,12,25.0,33.33,41.67,0.83,0.92
+84,Banfield,Colón,11,36.36,45.45,18.18,0.73,0.82
+85,Banfield,Newell's Old Boys,11,36.36,36.36,27.27,1.0,0.64
+86,Banfield,Racing Club,11,27.27,45.45,27.27,0.64,0.82
+87,Banfield,Atlético Tucumán,11,18.18,45.45,36.36,0.82,0.91
+88,Banfield,Talleres,11,18.18,36.36,45.45,0.55,0.82
+89,Banfield,Huracán,11,18.18,18.18,63.64,0.73,2.0
+90,Banfield,Arsenal de Sarandí,10,30.0,40.0,30.0,1.1,0.8
+91,Banfield,Estudiantes (LP),10,30.0,40.0,30.0,1.1,1.2
+92,Banfield,Unión,10,30.0,30.0,40.0,1.1,1.2
+93,Banfield,Aldosivi,9,55.56,22.22,22.22,1.78,1.0
+94,Banfield,Boca Juniors,9,22.22,11.11,66.67,0.44,1.33
+95,Banfield,Patronato,8,37.5,50.0,12.5,1.0,0.75
+96,Banfield,Sarmiento,8,12.5,87.5,0.0,0.62,0.38
+97,Banfield,Tigre,7,57.14,14.29,28.57,1.57,1.43
+98,Banfield,Belgrano,7,28.57,42.86,28.57,1.14,1.14
+99,Banfield,Central Córdoba (SdE),6,33.33,66.67,0.0,1.0,0.67
+100,Banfield,Barracas Central,6,16.67,50.0,33.33,0.33,0.5
+101,Banfield,Platense,6,33.33,0.0,66.67,0.83,1.67
+102,Banfield,Club Olimpo,4,50.0,25.0,25.0,1.5,0.75
+103,Banfield,San Martín de San Juan,4,50.0,25.0,25.0,2.0,1.75
+104,Banfield,Instituto,4,25.0,25.0,50.0,0.75,1.25
+105,Banfield,Quilmes,3,66.67,33.33,0.0,1.33,0.33
+106,Banfield,Club Atlético Temperley,3,33.33,33.33,33.33,1.0,0.67
+107,Banfield,Independiente Rivadavia,2,100.0,0.0,0.0,2.0,0.5
+108,Banfield,Atlético de Rafaela,2,50.0,50.0,0.0,2.5,1.0
+109,Banfield,Deportivo Riestra,2,50.0,50.0,0.0,1.5,0.5
+116,Banfield,Chacarita Juniors,1,100.0,0.0,0.0,2.0,1.0
+117,Banfield,Crucero del Norte,1,100.0,0.0,0.0,2.0,1.0
+118,Banfield,Club Atlético Nueva Chicago,1,100.0,0.0,0.0,2.0,1.0
+119,Banfield,San Martín de Tucumán,1,0.0,100.0,0.0,1.0,1.0
+120,Independiente,Racing Club,19,31.58,21.05,47.37,0.79,0.95
+121,Independiente,Atlético Tucumán,15,33.33,13.33,53.33,0.8,1.2
+122,Independiente,Lanús,15,20.0,40.0,40.0,0.8,0.93
+123,Independiente,Vélez Sarsfield,14,42.86,42.86,14.29,1.07,0.79
+124,Independiente,Gimnasia y Esgrima (LP),14,28.57,42.86,28.57,1.07,1.07
+125,Independiente,River Plate,14,21.43,28.57,50.0,0.64,1.21
+126,Independiente,Huracán,13,61.54,23.08,15.38,1.46,0.62
+127,Independiente,Rosario Central,13,38.46,38.46,23.08,1.08,0.85
+128,Independiente,Arsenal de Sarandí,12,66.67,25.0,8.33,1.58,0.42
+129,Independiente,Colón,12,66.67,16.67,16.67,1.92,0.67
+130,Independiente,Talleres,12,58.33,16.67,25.0,1.75,1.42
+131,Independiente,Banfield,12,41.67,33.33,25.0,0.92,0.83
+132,Independiente,Estudiantes (LP),11,27.27,36.36,36.36,1.18,1.36
+133,Independiente,Boca Juniors,11,18.18,54.55,27.27,0.73,1.09
+134,Independiente,Godoy Cruz,11,18.18,54.55,27.27,1.36,1.55
+135,Independiente,Unión,10,50.0,30.0,20.0,1.3,0.8
+136,Independiente,Newell's Old Boys,10,50.0,10.0,40.0,1.6,1.5
+137,Independiente,Argentinos Juniors,10,30.0,50.0,20.0,0.9,0.7
+138,Independiente,Defensa y Justicia,10,40.0,20.0,40.0,0.6,0.7
+139,Independiente,San Lorenzo,10,10.0,50.0,40.0,0.5,0.8
+140,Independiente,Sarmiento,9,55.56,44.44,0.0,1.67,0.44
+141,Independiente,Belgrano,8,62.5,25.0,12.5,1.5,0.62
+142,Independiente,Patronato,8,62.5,12.5,25.0,1.75,0.88
+143,Independiente,Tigre,8,25.0,62.5,12.5,1.0,0.88
+144,Independiente,Aldosivi,7,28.57,42.86,28.57,0.86,0.43
+145,Independiente,Central Córdoba (SdE),6,50.0,16.67,33.33,1.33,0.67
+146,Independiente,Barracas Central,6,33.33,66.67,0.0,1.5,0.83
+147,Independiente,Club Olimpo,4,25.0,75.0,0.0,1.25,0.75
+148,Independiente,San Martín de San Juan,4,25.0,75.0,0.0,1.5,0.5
+150,Independiente,Instituto,4,25.0,50.0,25.0,1.25,1.25
+151,Independiente,Platense,4,0.0,50.0,50.0,0.75,1.5
+152,Independiente,Quilmes,3,66.67,33.33,0.0,2.0,0.67
+153,Independiente,Club Atlético Temperley,3,66.67,33.33,0.0,0.67,0.0
+166,Independiente,Atlético de Rafaela,2,50.0,50.0,0.0,1.5,0.5
+170,Independiente,Deportivo Riestra,2,50.0,0.0,50.0,1.5,1.0
+175,Independiente,Independiente Rivadavia,2,50.0,0.0,50.0,0.5,0.5
+180,Independiente,Club Atlético Nueva Chicago,1,100.0,0.0,0.0,2.0,1.0
+181,Independiente,San Martín de Tucumán,1,100.0,0.0,0.0,4.0,0.0
+182,Independiente,Crucero del Norte,1,100.0,0.0,0.0,4.0,0.0
+183,Independiente,Chacarita Juniors,1,100.0,0.0,0.0,2.0,1.0
+184,Argentinos Juniors,Vélez Sarsfield,15,26.67,40.0,33.33,0.53,0.87
+185,Argentinos Juniors,River Plate,14,21.43,35.71,42.86,0.93,1.57
+186,Argentinos Juniors,Banfield,13,61.54,23.08,15.38,1.54,0.85
+187,Argentinos Juniors,Rosario Central,11,54.55,0.0,45.45,1.45,1.36
+188,Argentinos Juniors,Gimnasia y Esgrima (LP),11,36.36,18.18,45.45,1.55,1.45
+189,Argentinos Juniors,Colón,11,36.36,18.18,45.45,1.0,0.91
+190,Argentinos Juniors,Estudiantes (LP),11,27.27,45.45,27.27,1.36,1.45
+191,Argentinos Juniors,Atlético Tucumán,11,27.27,45.45,27.27,1.45,1.45
+192,Argentinos Juniors,Racing Club,11,27.27,18.18,54.55,0.73,1.27
+193,Argentinos Juniors,Defensa y Justicia,11,27.27,18.18,54.55,1.0,1.55
+194,Argentinos Juniors,Huracán,11,0.0,72.73,27.27,0.36,0.91
+195,Argentinos Juniors,Newell's Old Boys,10,60.0,20.0,20.0,1.1,0.4
+196,Argentinos Juniors,San Lorenzo,10,40.0,20.0,40.0,1.1,1.2
+197,Argentinos Juniors,Boca Juniors,10,30.0,30.0,40.0,0.8,0.8
+198,Argentinos Juniors,Talleres,10,40.0,0.0,60.0,1.1,1.3
+199,Argentinos Juniors,Unión,10,40.0,0.0,60.0,1.3,1.5
+200,Argentinos Juniors,Independiente,10,20.0,50.0,30.0,0.7,0.9
+201,Argentinos Juniors,Lanús,9,44.44,44.44,11.11,1.11,0.22
+202,Argentinos Juniors,Tigre,9,44.44,22.22,33.33,1.0,1.11
+203,Argentinos Juniors,Godoy Cruz,9,33.33,44.44,22.22,0.78,0.33
+204,Argentinos Juniors,Platense,9,33.33,33.33,33.33,0.78,0.78
+205,Argentinos Juniors,Arsenal de Sarandí,8,37.5,25.0,37.5,1.75,1.75
+206,Argentinos Juniors,Aldosivi,7,28.57,14.29,57.14,1.43,1.57
+207,Argentinos Juniors,Central Córdoba (SdE),6,50.0,33.33,16.67,1.33,0.83
+208,Argentinos Juniors,Sarmiento,6,16.67,50.0,33.33,0.33,0.5
+209,Argentinos Juniors,Patronato,6,16.67,50.0,33.33,0.83,1.0
+210,Argentinos Juniors,Barracas Central,5,20.0,60.0,20.0,1.4,1.2
+211,Argentinos Juniors,Belgrano,5,20.0,20.0,60.0,1.0,1.0
+212,Argentinos Juniors,San Martín de San Juan,4,50.0,25.0,25.0,1.25,1.0
+214,Argentinos Juniors,Instituto,4,25.0,25.0,50.0,0.75,1.0
+215,Argentinos Juniors,Club Atlético Temperley,3,0.0,100.0,0.0,0.67,0.67
+218,Argentinos Juniors,Atlético de Rafaela,2,100.0,0.0,0.0,2.0,0.0
+220,Argentinos Juniors,Club Atlético Nueva Chicago,2,50.0,50.0,0.0,1.5,1.0
+222,Argentinos Juniors,Deportivo Riestra,2,50.0,0.0,50.0,1.0,1.0
+226,Argentinos Juniors,Independiente Rivadavia,2,50.0,0.0,50.0,1.5,1.5
+227,Argentinos Juniors,Club Olimpo,2,50.0,0.0,50.0,0.5,0.5
+232,Argentinos Juniors,Crucero del Norte,1,100.0,0.0,0.0,4.0,0.0
+233,Argentinos Juniors,Chacarita Juniors,1,100.0,0.0,0.0,1.0,0.0
+234,Argentinos Juniors,San Martín de Tucumán,1,0.0,100.0,0.0,0.0,0.0
+235,Argentinos Juniors,Quilmes,1,0.0,0.0,100.0,0.0,2.0
+236,Rosario Central,Newell's Old Boys,17,52.94,35.29,11.76,0.94,0.29
+237,Rosario Central,River Plate,14,21.43,42.86,35.71,1.14,1.71
+238,Rosario Central,Godoy Cruz,13,46.15,23.08,30.77,1.54,1.0
+239,Rosario Central,Independiente,13,23.08,38.46,38.46,0.85,1.08
+240,Rosario Central,Vélez Sarsfield,13,23.08,30.77,46.15,0.77,1.08
+241,Rosario Central,San Lorenzo,13,23.08,30.77,46.15,0.92,1.15
+242,Rosario Central,Banfield,13,23.08,30.77,46.15,0.92,1.62
+243,Rosario Central,Gimnasia y Esgrima (LP),12,50.0,8.33,41.67,1.33,0.92
+244,Rosario Central,Colón,12,16.67,75.0,8.33,1.33,0.92
+245,Rosario Central,Huracán,12,33.33,16.67,50.0,1.08,1.5
+246,Rosario Central,Boca Juniors,12,25.0,41.67,33.33,1.0,1.17
+247,Rosario Central,Arsenal de Sarandí,11,72.73,9.09,18.18,2.09,0.91
+248,Rosario Central,Argentinos Juniors,11,45.45,0.0,54.55,1.36,1.45
+249,Rosario Central,Racing Club,11,27.27,27.27,45.45,1.27,1.55
+250,Rosario Central,Estudiantes (LP),11,18.18,54.55,27.27,1.18,1.36
+251,Rosario Central,Lanús,11,9.09,54.55,36.36,0.91,1.55
+252,Rosario Central,Talleres,10,50.0,20.0,30.0,1.4,1.6
+253,Rosario Central,Atlético Tucumán,10,40.0,40.0,20.0,1.3,1.0
+254,Rosario Central,Unión,9,22.22,33.33,44.44,0.56,1.33
+255,Rosario Central,Defensa y Justicia,9,11.11,33.33,55.56,0.78,1.78
+256,Rosario Central,Aldosivi,8,50.0,12.5,37.5,1.62,0.88
+257,Rosario Central,Tigre,8,25.0,37.5,37.5,1.0,1.5
+258,Rosario Central,Central Córdoba (SdE),7,57.14,28.57,14.29,1.57,1.14
+259,Rosario Central,Belgrano,7,57.14,28.57,14.29,1.29,0.57
+260,Rosario Central,Sarmiento,7,42.86,28.57,28.57,1.43,1.43
+261,Rosario Central,Patronato,7,28.57,28.57,42.86,1.0,1.43
+262,Rosario Central,Platense,6,33.33,33.33,33.33,1.33,1.17
+263,Rosario Central,Barracas Central,6,16.67,33.33,50.0,1.0,1.33
+264,Rosario Central,San Martín de San Juan,5,40.0,40.0,20.0,1.0,1.0
+265,Rosario Central,Club Olimpo,4,50.0,50.0,0.0,2.5,0.75
+266,Rosario Central,Instituto,4,50.0,50.0,0.0,1.25,0.25
+268,Rosario Central,Club Atlético Temperley,3,66.67,33.33,0.0,1.33,0.67
+269,Rosario Central,Quilmes,3,33.33,33.33,33.33,1.0,1.33
+271,Rosario Central,Deportivo Riestra,2,50.0,50.0,0.0,1.5,0.5
+273,Rosario Central,Independiente Rivadavia,2,50.0,50.0,0.0,1.0,0.5
+281,Rosario Central,Atlético de Rafaela,2,0.0,100.0,0.0,0.5,0.5
+289,Rosario Central,Crucero del Norte,1,100.0,0.0,0.0,1.0,0.0
+290,Rosario Central,Club Atlético Nueva Chicago,1,100.0,0.0,0.0,2.0,0.0
+291,Rosario Central,San Martín de Tucumán,1,100.0,0.0,0.0,2.0,0.0
+292,Rosario Central,Chacarita Juniors,1,100.0,0.0,0.0,3.0,1.0
+293,Vélez Sarsfield,Argentinos Juniors,15,33.33,40.0,26.67,0.87,0.53
+294,Vélez Sarsfield,River Plate,14,28.57,35.71,35.71,0.86,1.36
+295,Vélez Sarsfield,Independiente,14,14.29,42.86,42.86,0.79,1.07
+296,Vélez Sarsfield,Talleres,13,46.15,30.77,23.08,1.15,0.85
+297,Vélez Sarsfield,Rosario Central,13,46.15,30.77,23.08,1.08,0.77
+298,Vélez Sarsfield,Estudiantes (LP),13,46.15,23.08,30.77,1.69,1.23
+299,Vélez Sarsfield,Lanús,13,46.15,23.08,30.77,1.46,1.08
+300,Vélez Sarsfield,Tigre,13,38.46,23.08,38.46,1.38,1.46
+301,Vélez Sarsfield,Gimnasia y Esgrima (LP),13,38.46,23.08,38.46,1.31,1.23
+302,Vélez Sarsfield,Huracán,13,23.08,46.15,30.77,0.69,0.85
+303,Vélez Sarsfield,Banfield,12,33.33,33.33,33.33,1.17,1.08
+304,Vélez Sarsfield,Godoy Cruz,12,25.0,41.67,33.33,1.0,1.17
+305,Vélez Sarsfield,Colón,11,54.55,18.18,27.27,1.45,0.91
+306,Vélez Sarsfield,Atlético Tucumán,11,36.36,45.45,18.18,1.0,0.64
+307,Vélez Sarsfield,Boca Juniors,11,18.18,18.18,63.64,0.64,1.91
+308,Vélez Sarsfield,Newell's Old Boys,10,60.0,10.0,30.0,1.0,0.7
+309,Vélez Sarsfield,Arsenal de Sarandí,10,40.0,40.0,20.0,1.3,0.8
+310,Vélez Sarsfield,Unión,10,50.0,10.0,40.0,1.6,0.8
+311,Vélez Sarsfield,Defensa y Justicia,10,40.0,40.0,20.0,1.2,0.8
+312,Vélez Sarsfield,San Lorenzo,10,20.0,30.0,50.0,0.8,1.1
+313,Vélez Sarsfield,Racing Club,10,10.0,30.0,60.0,0.6,1.6
+314,Vélez Sarsfield,Sarmiento,8,50.0,37.5,12.5,1.5,0.75
+315,Vélez Sarsfield,Patronato,8,25.0,62.5,12.5,0.75,0.75
+316,Vélez Sarsfield,Aldosivi,7,57.14,28.57,14.29,1.71,0.86
+317,Vélez Sarsfield,Belgrano,7,28.57,28.57,42.86,1.29,1.57
+318,Vélez Sarsfield,Central Córdoba (SdE),6,66.67,16.67,16.67,2.0,0.67
+319,Vélez Sarsfield,Barracas Central,6,50.0,50.0,0.0,1.5,0.33
+320,Vélez Sarsfield,Instituto,5,60.0,0.0,40.0,0.6,0.6
+321,Vélez Sarsfield,Platense,5,20.0,20.0,60.0,1.0,1.2
+322,Vélez Sarsfield,Club Olimpo,4,75.0,0.0,25.0,1.5,0.75
+323,Vélez Sarsfield,San Martín de San Juan,4,25.0,0.0,75.0,1.0,2.0
+325,Vélez Sarsfield,Club Atlético Temperley,3,33.33,33.33,33.33,1.67,1.33
+326,Vélez Sarsfield,Quilmes,3,0.0,33.33,66.67,0.67,1.33
+327,Vélez Sarsfield,Independiente Rivadavia,2,100.0,0.0,0.0,2.5,0.0
+332,Vélez Sarsfield,Atlético de Rafaela,2,50.0,50.0,0.0,2.0,1.0
+333,Vélez Sarsfield,Deportivo Riestra,2,50.0,50.0,0.0,1.5,1.0
+343,Vélez Sarsfield,San Martín de Tucumán,1,100.0,0.0,0.0,1.0,0.0
+344,Vélez Sarsfield,Crucero del Norte,1,100.0,0.0,0.0,2.0,1.0
+345,Vélez Sarsfield,Chacarita Juniors,1,0.0,0.0,100.0,0.0,2.0
+346,Vélez Sarsfield,Club Atlético Nueva Chicago,1,0.0,0.0,100.0,1.0,2.0
+347,Gimnasia y Esgrima (LP),Estudiantes (LP),19,5.26,57.89,36.84,0.58,1.16
+348,Gimnasia y Esgrima (LP),Independiente,14,28.57,42.86,28.57,1.07,1.07
+349,Gimnasia y Esgrima (LP),Vélez Sarsfield,13,38.46,23.08,38.46,1.23,1.31
+350,Gimnasia y Esgrima (LP),Banfield,13,15.38,15.38,69.23,0.62,1.38
+351,Gimnasia y Esgrima (LP),River Plate,13,7.69,15.38,76.92,0.69,2.15
+352,Gimnasia y Esgrima (LP),Huracán,12,33.33,50.0,16.67,1.0,0.92
+353,Gimnasia y Esgrima (LP),Atlético Tucumán,12,50.0,0.0,50.0,1.08,1.33
+354,Gimnasia y Esgrima (LP),Rosario Central,12,41.67,8.33,50.0,0.92,1.33
+355,Gimnasia y Esgrima (LP),Talleres,12,41.67,8.33,50.0,1.33,1.42
+356,Gimnasia y Esgrima (LP),San Lorenzo,12,25.0,16.67,58.33,0.33,1.0
+357,Gimnasia y Esgrima (LP),Lanús,12,16.67,16.67,66.67,0.58,1.5
+358,Gimnasia y Esgrima (LP),Newell's Old Boys,11,63.64,18.18,18.18,1.45,0.64
+359,Gimnasia y Esgrima (LP),Argentinos Juniors,11,45.45,18.18,36.36,1.45,1.55
+360,Gimnasia y Esgrima (LP),Colón,11,36.36,18.18,45.45,1.0,1.0
+361,Gimnasia y Esgrima (LP),Unión,11,36.36,18.18,45.45,1.18,1.09
+362,Gimnasia y Esgrima (LP),Defensa y Justicia,11,9.09,27.27,63.64,1.0,1.64
+363,Gimnasia y Esgrima (LP),Godoy Cruz,10,50.0,10.0,40.0,1.4,1.4
+364,Gimnasia y Esgrima (LP),Racing Club,10,30.0,20.0,50.0,0.9,1.3
+365,Gimnasia y Esgrima (LP),Boca Juniors,10,20.0,20.0,60.0,1.0,1.7
+366,Gimnasia y Esgrima (LP),Patronato,9,66.67,22.22,11.11,2.0,0.78
+367,Gimnasia y Esgrima (LP),Arsenal de Sarandí,9,55.56,33.33,11.11,0.89,0.33
+368,Gimnasia y Esgrima (LP),Sarmiento,9,22.22,55.56,22.22,0.67,0.67
+369,Gimnasia y Esgrima (LP),Tigre,7,28.57,42.86,28.57,1.0,1.0
+370,Gimnasia y Esgrima (LP),Belgrano,7,28.57,14.29,57.14,0.43,1.43
+371,Gimnasia y Esgrima (LP),Aldosivi,6,66.67,33.33,0.0,1.83,0.33
+372,Gimnasia y Esgrima (LP),Barracas Central,5,60.0,20.0,20.0,1.4,0.8
+373,Gimnasia y Esgrima (LP),San Martín de San Juan,5,40.0,20.0,40.0,1.6,1.4
+374,Gimnasia y Esgrima (LP),Platense,5,20.0,60.0,20.0,1.4,1.0
+375,Gimnasia y Esgrima (LP),Central Córdoba (SdE),5,20.0,60.0,20.0,0.8,0.8
+376,Gimnasia y Esgrima (LP),Instituto,5,20.0,20.0,60.0,1.0,1.8
+377,Gimnasia y Esgrima (LP),Club Olimpo,4,50.0,50.0,0.0,1.0,0.5
+378,Gimnasia y Esgrima (LP),Quilmes,3,100.0,0.0,0.0,2.33,1.0
+379,Gimnasia y Esgrima (LP),Club Atlético Temperley,3,33.33,66.67,0.0,1.67,1.0
+380,Gimnasia y Esgrima (LP),Deportivo Riestra,2,50.0,50.0,0.0,1.0,0.5
+382,Gimnasia y Esgrima (LP),Atlético de Rafaela,2,50.0,0.0,50.0,0.5,0.5
+385,Gimnasia y Esgrima (LP),Independiente Rivadavia,2,0.0,0.0,100.0,1.0,2.0
+387,Gimnasia y Esgrima (LP),Crucero del Norte,1,100.0,0.0,0.0,2.0,1.0
+388,Gimnasia y Esgrima (LP),Club Atlético Nueva Chicago,1,100.0,0.0,0.0,2.0,1.0
+389,Gimnasia y Esgrima (LP),San Martín de Tucumán,1,0.0,100.0,0.0,1.0,1.0
+390,Gimnasia y Esgrima (LP),Chacarita Juniors,1,0.0,0.0,100.0,0.0,2.0
+391,Godoy Cruz,Estudiantes (LP),14,28.57,14.29,57.14,0.86,1.43
+392,Godoy Cruz,Rosario Central,13,30.77,23.08,46.15,1.0,1.54
+393,Godoy Cruz,San Lorenzo,13,30.77,23.08,46.15,1.0,0.77
+394,Godoy Cruz,River Plate,13,30.77,7.69,61.54,0.92,1.92
+395,Godoy Cruz,Vélez Sarsfield,12,33.33,41.67,25.0,1.17,1.0
+396,Godoy Cruz,Banfield,12,33.33,33.33,33.33,1.42,1.25
+397,Godoy Cruz,Racing Club,12,33.33,8.33,58.33,1.33,1.67
+398,Godoy Cruz,Lanús,12,25.0,33.33,41.67,1.42,2.08
+399,Godoy Cruz,Boca Juniors,12,8.33,16.67,75.0,0.83,1.92
+400,Godoy Cruz,Newell's Old Boys,11,54.55,27.27,18.18,1.36,0.82
+401,Godoy Cruz,Independiente,11,27.27,54.55,18.18,1.55,1.36
+402,Godoy Cruz,Colón,11,36.36,9.09,54.55,1.27,1.55
+403,Godoy Cruz,Defensa y Justicia,11,27.27,36.36,36.36,1.27,1.36
+404,Godoy Cruz,Unión,11,18.18,27.27,54.55,0.82,1.27
+405,Godoy Cruz,Huracán,10,50.0,40.0,10.0,1.3,0.8
+406,Godoy Cruz,Arsenal de Sarandí,10,50.0,30.0,20.0,1.4,1.1
+407,Godoy Cruz,Tigre,10,50.0,30.0,20.0,1.4,0.8
+408,Godoy Cruz,Sarmiento,10,30.0,70.0,0.0,0.9,0.6
+409,Godoy Cruz,Gimnasia y Esgrima (LP),10,40.0,10.0,50.0,1.4,1.4
+410,Godoy Cruz,Talleres,10,10.0,20.0,70.0,0.6,1.8
+411,Godoy Cruz,Belgrano,9,66.67,11.11,22.22,1.11,0.44
+412,Godoy Cruz,Central Córdoba (SdE),9,55.56,22.22,22.22,0.89,0.56
+413,Godoy Cruz,Argentinos Juniors,9,22.22,44.44,33.33,0.33,0.78
+414,Godoy Cruz,Aldosivi,8,75.0,0.0,25.0,2.0,1.12
+415,Godoy Cruz,San Martín de San Juan,8,50.0,37.5,12.5,1.0,0.62
+416,Godoy Cruz,Platense,8,50.0,25.0,25.0,1.62,1.12
+417,Godoy Cruz,Atlético Tucumán,8,12.5,25.0,62.5,0.88,1.38
+418,Godoy Cruz,Patronato,7,71.43,14.29,14.29,1.86,0.43
+419,Godoy Cruz,Instituto,4,75.0,25.0,0.0,2.5,1.0
+420,Godoy Cruz,Club Olimpo,4,25.0,25.0,50.0,0.5,1.25
+421,Godoy Cruz,Barracas Central,4,25.0,0.0,75.0,0.75,1.75
+422,Godoy Cruz,Club Atlético Temperley,3,66.67,0.0,33.33,2.0,0.33
+423,Godoy Cruz,Quilmes,3,33.33,33.33,33.33,1.0,0.67
+428,Godoy Cruz,Atlético de Rafaela,2,50.0,0.0,50.0,2.0,1.5
+434,Godoy Cruz,Chacarita Juniors,1,100.0,0.0,0.0,1.0,0.0
+435,Godoy Cruz,Deportivo Riestra,1,100.0,0.0,0.0,4.0,1.0
+436,Godoy Cruz,San Martín de Tucumán,1,100.0,0.0,0.0,3.0,2.0
+437,Godoy Cruz,Club Atlético Nueva Chicago,1,100.0,0.0,0.0,2.0,0.0
+438,Godoy Cruz,Crucero del Norte,1,100.0,0.0,0.0,3.0,0.0
+439,Godoy Cruz,Independiente Rivadavia,1,0.0,100.0,0.0,0.0,0.0
+440,Racing Club,Boca Juniors,20,35.0,40.0,25.0,0.95,1.0
+441,Racing Club,Independiente,19,47.37,21.05,31.58,0.95,0.79
+442,Racing Club,Estudiantes (LP),15,33.33,40.0,26.67,1.07,1.07
+443,Racing Club,Unión,13,53.85,23.08,23.08,1.54,1.0
+444,Racing Club,San Lorenzo,13,46.15,38.46,15.38,1.54,1.0
+445,Racing Club,Newell's Old Boys,13,46.15,30.77,23.08,1.15,1.08
+446,Racing Club,Defensa y Justicia,13,7.69,69.23,23.08,1.62,1.77
+447,Racing Club,River Plate,13,15.38,30.77,53.85,0.69,1.92
+448,Racing Club,Lanús,12,83.33,0.0,16.67,1.75,0.58
+449,Racing Club,Godoy Cruz,12,58.33,8.33,33.33,1.67,1.33
+450,Racing Club,Argentinos Juniors,11,54.55,18.18,27.27,1.27,0.73
+451,Racing Club,Rosario Central,11,45.45,27.27,27.27,1.55,1.27
+452,Racing Club,Banfield,11,27.27,45.45,27.27,0.82,0.64
+453,Racing Club,Huracán,10,70.0,20.0,10.0,1.6,0.4
+454,Racing Club,Vélez Sarsfield,10,60.0,30.0,10.0,1.6,0.6
+455,Racing Club,Tigre,10,50.0,50.0,0.0,2.3,1.1
+456,Racing Club,Gimnasia y Esgrima (LP),10,50.0,20.0,30.0,1.3,0.9
+457,Racing Club,Colón,10,50.0,20.0,30.0,1.7,1.2
+458,Racing Club,Atlético Tucumán,10,40.0,20.0,40.0,1.8,1.5
+459,Racing Club,Aldosivi,9,66.67,22.22,11.11,2.56,0.78
+460,Racing Club,Sarmiento,9,55.56,22.22,22.22,1.33,0.78
+461,Racing Club,Belgrano,9,44.44,44.44,11.11,2.11,1.0
+462,Racing Club,Talleres,9,22.22,44.44,33.33,1.44,1.67
+463,Racing Club,Arsenal de Sarandí,8,75.0,12.5,12.5,1.88,0.62
+464,Racing Club,Central Córdoba (SdE),8,37.5,37.5,25.0,1.38,1.0
+465,Racing Club,Platense,8,37.5,25.0,37.5,0.75,0.88
+466,Racing Club,Patronato,7,85.71,14.29,0.0,2.43,0.57
+468,Racing Club,San Martín de San Juan,5,60.0,40.0,0.0,1.4,0.4
+469,Racing Club,Club Atlético Temperley,4,75.0,0.0,25.0,2.0,1.25
+471,Racing Club,Barracas Central,4,50.0,50.0,0.0,1.5,0.5
+476,Racing Club,Atlético de Rafaela,3,33.33,33.33,33.33,3.0,2.33
+477,Racing Club,Club Olimpo,3,33.33,33.33,33.33,0.67,1.0
+493,Racing Club,Instituto,2,50.0,50.0,0.0,1.5,0.5
+503,Racing Club,Quilmes,2,50.0,0.0,50.0,2.0,2.0
+506,Racing Club,Crucero del Norte,1,100.0,0.0,0.0,3.0,0.0
+507,Racing Club,Deportivo Riestra,1,100.0,0.0,0.0,1.0,0.0
+508,Racing Club,Independiente Rivadavia,1,100.0,0.0,0.0,2.0,1.0
+509,Racing Club,Club Atlético Nueva Chicago,1,0.0,100.0,0.0,0.0,0.0
+510,Racing Club,Chacarita Juniors,1,0.0,100.0,0.0,1.0,1.0
+511,Racing Club,San Martín de Tucumán,1,0.0,0.0,100.0,1.0,2.0
+512,Talleres,River Plate,13,46.15,7.69,46.15,1.0,0.92
+513,Talleres,Vélez Sarsfield,13,23.08,30.77,46.15,0.85,1.15
+514,Talleres,Atlético Tucumán,12,58.33,16.67,25.0,1.67,1.0
+515,Talleres,Gimnasia y Esgrima (LP),12,50.0,8.33,41.67,1.42,1.33
+516,Talleres,Independiente,12,25.0,16.67,58.33,1.42,1.75
+517,Talleres,Huracán,11,54.55,27.27,18.18,1.09,0.64
+518,Talleres,Banfield,11,45.45,36.36,18.18,0.82,0.55
+519,Talleres,Colón,11,45.45,27.27,27.27,1.27,0.82
+520,Talleres,Godoy Cruz,10,70.0,20.0,10.0,1.8,0.6
+521,Talleres,Argentinos Juniors,10,60.0,0.0,40.0,1.3,1.1
+522,Talleres,San Lorenzo,10,40.0,30.0,30.0,0.8,0.6
+523,Talleres,Unión,10,30.0,40.0,30.0,1.3,1.4
+524,Talleres,Defensa y Justicia,10,30.0,30.0,40.0,1.0,1.8
+525,Talleres,Rosario Central,10,30.0,20.0,50.0,1.6,1.4
+526,Talleres,Newell's Old Boys,10,20.0,30.0,50.0,1.2,1.6
+527,Talleres,Racing Club,9,33.33,44.44,22.22,1.67,1.44
+528,Talleres,Boca Juniors,9,33.33,22.22,44.44,0.89,1.0
+529,Talleres,Lanús,9,22.22,11.11,66.67,1.78,2.0
+530,Talleres,Patronato,8,37.5,37.5,25.0,1.12,1.0
+531,Talleres,Belgrano,8,12.5,87.5,0.0,1.0,0.62
+532,Talleres,Estudiantes (LP),8,37.5,12.5,50.0,0.5,0.5
+533,Talleres,Sarmiento,7,85.71,14.29,0.0,1.86,0.43
+534,Talleres,Arsenal de Sarandí,7,42.86,57.14,0.0,1.0,0.43
+535,Talleres,Tigre,6,16.67,50.0,33.33,1.17,1.33
+536,Talleres,Aldosivi,5,60.0,20.0,20.0,1.6,0.8
+537,Talleres,Platense,5,60.0,20.0,20.0,1.6,1.0
+538,Talleres,Barracas Central,5,40.0,20.0,40.0,1.8,1.0
+539,Talleres,Central Córdoba (SdE),5,40.0,20.0,40.0,1.6,1.4
+541,Talleres,Instituto,4,25.0,75.0,0.0,1.5,0.75
+542,Talleres,San Martín de San Juan,3,33.33,33.33,33.33,1.67,1.33
+545,Talleres,Independiente Rivadavia,2,50.0,50.0,0.0,1.5,1.0
+546,Talleres,Deportivo Riestra,2,50.0,50.0,0.0,0.5,0.0
+549,Talleres,Club Olimpo,2,50.0,50.0,0.0,1.5,1.0
+550,Talleres,Club Atlético Temperley,2,50.0,0.0,50.0,1.0,1.0
+556,Talleres,Chacarita Juniors,1,100.0,0.0,0.0,1.0,0.0
+557,Talleres,Atlético de Rafaela,1,100.0,0.0,0.0,1.0,0.0
+558,Talleres,San Martín de Tucumán,1,0.0,100.0,0.0,0.0,0.0
+559,Talleres,Quilmes,1,0.0,0.0,100.0,0.0,1.0
+560,San Lorenzo,Huracán,17,29.41,52.94,17.65,0.88,0.71
+561,San Lorenzo,Banfield,14,35.71,42.86,21.43,0.93,0.79
+562,San Lorenzo,Lanús,14,35.71,21.43,42.86,1.43,1.64
+563,San Lorenzo,Rosario Central,13,46.15,30.77,23.08,1.15,0.92
+564,San Lorenzo,Godoy Cruz,13,46.15,23.08,30.77,0.77,1.0
+565,San Lorenzo,River Plate,13,30.77,30.77,38.46,0.77,1.0
+566,San Lorenzo,Racing Club,13,15.38,38.46,46.15,1.0,1.54
+567,San Lorenzo,Gimnasia y Esgrima (LP),12,58.33,16.67,25.0,1.0,0.33
+568,San Lorenzo,Defensa y Justicia,12,41.67,25.0,33.33,1.17,1.08
+569,San Lorenzo,Unión,12,33.33,50.0,16.67,1.17,1.25
+570,San Lorenzo,Estudiantes (LP),12,25.0,58.33,16.67,1.08,0.83
+571,San Lorenzo,Newell's Old Boys,12,25.0,50.0,25.0,1.08,1.25
+572,San Lorenzo,Boca Juniors,11,36.36,18.18,45.45,1.09,1.36
+573,San Lorenzo,Sarmiento,10,70.0,10.0,20.0,1.4,0.6
+574,San Lorenzo,Vélez Sarsfield,10,50.0,30.0,20.0,1.1,0.8
+575,San Lorenzo,Independiente,10,40.0,50.0,10.0,0.8,0.5
+576,San Lorenzo,Argentinos Juniors,10,40.0,20.0,40.0,1.2,1.1
+577,San Lorenzo,Talleres,10,30.0,30.0,40.0,0.6,0.8
+578,San Lorenzo,Colón,10,20.0,40.0,40.0,0.8,0.9
+579,San Lorenzo,Arsenal de Sarandí,9,66.67,22.22,11.11,1.78,0.89
+580,San Lorenzo,Belgrano,9,44.44,44.44,11.11,1.22,0.89
+581,San Lorenzo,Tigre,9,22.22,44.44,33.33,1.22,1.33
+582,San Lorenzo,Atlético Tucumán,9,22.22,44.44,33.33,1.0,1.0
+583,San Lorenzo,Platense,8,50.0,50.0,0.0,1.62,0.88
+584,San Lorenzo,Central Córdoba (SdE),8,50.0,25.0,25.0,0.88,1.0
+585,San Lorenzo,Patronato,8,37.5,37.5,25.0,1.75,1.25
+586,San Lorenzo,Aldosivi,7,28.57,14.29,57.14,1.29,1.29
+587,San Lorenzo,Club Olimpo,4,75.0,0.0,25.0,1.75,0.75
+588,San Lorenzo,San Martín de San Juan,4,50.0,25.0,25.0,2.0,1.5
+595,San Lorenzo,Quilmes,3,66.67,0.0,33.33,1.67,1.33
+596,San Lorenzo,Club Atlético Temperley,3,66.67,0.0,33.33,1.33,0.33
+597,San Lorenzo,Barracas Central,3,33.33,0.0,66.67,0.67,1.0
+601,San Lorenzo,Atlético de Rafaela,2,100.0,0.0,0.0,1.5,0.5
+610,San Lorenzo,Instituto,2,50.0,0.0,50.0,1.0,1.0
+628,San Lorenzo,Chacarita Juniors,1,100.0,0.0,0.0,1.0,0.0
+629,San Lorenzo,Club Atlético Nueva Chicago,1,100.0,0.0,0.0,1.0,0.0
+630,San Lorenzo,Crucero del Norte,1,100.0,0.0,0.0,2.0,1.0
+631,San Lorenzo,San Martín de Tucumán,1,0.0,100.0,0.0,0.0,0.0
+632,San Lorenzo,Deportivo Riestra,1,0.0,0.0,100.0,0.0,1.0
+633,San Lorenzo,Independiente Rivadavia,1,0.0,0.0,100.0,0.0,1.0
+634,Huracán,San Lorenzo,17,17.65,52.94,29.41,0.71,0.88
+635,Huracán,River Plate,13,38.46,38.46,23.08,1.0,1.23
+636,Huracán,Vélez Sarsfield,13,30.77,46.15,23.08,0.85,0.69
+637,Huracán,Boca Juniors,13,7.69,53.85,38.46,0.46,1.08
+638,Huracán,Independiente,13,15.38,23.08,61.54,0.62,1.46
+639,Huracán,Lanús,12,50.0,16.67,33.33,1.25,0.67
+640,Huracán,Rosario Central,12,50.0,16.67,33.33,1.5,1.08
+641,Huracán,Atlético Tucumán,12,41.67,25.0,33.33,1.42,0.92
+642,Huracán,Estudiantes (LP),12,33.33,33.33,33.33,0.92,1.0
+643,Huracán,Gimnasia y Esgrima (LP),12,16.67,50.0,33.33,0.92,1.0
+644,Huracán,Banfield,11,63.64,18.18,18.18,2.0,0.73
+645,Huracán,Defensa y Justicia,11,54.55,36.36,9.09,1.64,0.82
+646,Huracán,Tigre,11,45.45,18.18,36.36,1.45,1.09
+647,Huracán,Argentinos Juniors,11,27.27,72.73,0.0,0.91,0.36
+648,Huracán,Newell's Old Boys,11,36.36,18.18,45.45,1.09,1.45
+649,Huracán,Unión,11,18.18,45.45,36.36,0.45,0.73
+650,Huracán,Talleres,11,18.18,27.27,54.55,0.64,1.09
+651,Huracán,Colón,10,40.0,50.0,10.0,1.3,1.0
+652,Huracán,Godoy Cruz,10,10.0,40.0,50.0,0.8,1.3
+653,Huracán,Racing Club,10,10.0,20.0,70.0,0.4,1.6
+654,Huracán,Arsenal de Sarandí,9,44.44,22.22,33.33,1.0,1.0
+655,Huracán,Aldosivi,8,62.5,12.5,25.0,1.38,0.5
+656,Huracán,Sarmiento,7,57.14,42.86,0.0,1.86,0.29
+657,Huracán,Belgrano,7,28.57,42.86,28.57,0.57,0.71
+658,Huracán,Patronato,7,28.57,28.57,42.86,0.86,1.0
+659,Huracán,Central Córdoba (SdE),6,33.33,50.0,16.67,1.17,1.0
+660,Huracán,Barracas Central,6,33.33,33.33,33.33,1.0,0.67
+662,Huracán,San Martín de San Juan,5,80.0,0.0,20.0,2.0,1.4
+663,Huracán,Platense,5,60.0,20.0,20.0,1.4,1.0
+664,Huracán,Club Atlético Temperley,4,50.0,25.0,25.0,1.75,1.25
+667,Huracán,Instituto,4,25.0,25.0,50.0,0.5,1.25
+669,Huracán,Atlético de Rafaela,3,33.33,33.33,33.33,1.33,1.33
+670,Huracán,Club Olimpo,3,33.33,0.0,66.67,1.33,2.0
+676,Huracán,Independiente Rivadavia,2,50.0,0.0,50.0,0.5,1.0
+683,Huracán,Deportivo Riestra,2,0.0,50.0,50.0,0.0,0.5
+685,Huracán,Quilmes,2,0.0,50.0,50.0,1.0,1.5
+688,Huracán,Chacarita Juniors,1,100.0,0.0,0.0,2.0,0.0
+689,Huracán,Crucero del Norte,1,0.0,100.0,0.0,3.0,3.0
+690,Huracán,Club Atlético Nueva Chicago,1,0.0,0.0,100.0,0.0,3.0
+691,Huracán,San Martín de Tucumán,1,0.0,0.0,100.0,1.0,3.0
+692,Estudiantes (LP),Gimnasia y Esgrima (LP),19,36.84,57.89,5.26,1.16,0.58
+693,Estudiantes (LP),Racing Club,15,26.67,40.0,33.33,1.07,1.07
+694,Estudiantes (LP),Godoy Cruz,14,57.14,14.29,28.57,1.43,0.86
+695,Estudiantes (LP),Boca Juniors,14,35.71,28.57,35.71,0.79,0.86
+696,Estudiantes (LP),Unión,13,61.54,23.08,15.38,1.38,0.62
+697,Estudiantes (LP),Lanús,13,23.08,46.15,30.77,0.92,1.0
+698,Estudiantes (LP),Vélez Sarsfield,13,30.77,23.08,46.15,1.23,1.69
+699,Estudiantes (LP),Newell's Old Boys,12,50.0,25.0,25.0,1.42,0.92
+700,Estudiantes (LP),Huracán,12,33.33,33.33,33.33,1.0,0.92
+701,Estudiantes (LP),Defensa y Justicia,12,33.33,16.67,50.0,1.0,1.17
+702,Estudiantes (LP),San Lorenzo,12,16.67,58.33,25.0,0.83,1.08
+703,Estudiantes (LP),River Plate,12,25.0,16.67,58.33,1.0,1.92
+704,Estudiantes (LP),Independiente,11,36.36,36.36,27.27,1.36,1.18
+705,Estudiantes (LP),Rosario Central,11,27.27,54.55,18.18,1.36,1.18
+706,Estudiantes (LP),Argentinos Juniors,11,27.27,45.45,27.27,1.45,1.36
+707,Estudiantes (LP),Tigre,11,36.36,18.18,45.45,1.0,1.0
+708,Estudiantes (LP),Belgrano,10,40.0,10.0,50.0,1.3,1.1
+709,Estudiantes (LP),Banfield,10,30.0,40.0,30.0,1.2,1.1
+710,Estudiantes (LP),Colón,10,10.0,40.0,50.0,0.9,1.5
+711,Estudiantes (LP),Aldosivi,9,77.78,0.0,22.22,1.67,1.0
+712,Estudiantes (LP),Arsenal de Sarandí,9,66.67,11.11,22.22,2.11,1.0
+713,Estudiantes (LP),Central Córdoba (SdE),9,55.56,44.44,0.0,2.11,0.67
+714,Estudiantes (LP),Atlético Tucumán,9,33.33,44.44,22.22,1.11,1.11
+715,Estudiantes (LP),Sarmiento,8,62.5,12.5,25.0,1.38,1.0
+716,Estudiantes (LP),Talleres,8,50.0,12.5,37.5,0.5,0.5
+717,Estudiantes (LP),Platense,7,28.57,42.86,28.57,1.14,1.0
+718,Estudiantes (LP),Patronato,6,100.0,0.0,0.0,1.17,0.17
+720,Estudiantes (LP),Barracas Central,5,80.0,20.0,0.0,3.6,1.0
+721,Estudiantes (LP),Club Olimpo,5,60.0,20.0,20.0,1.4,0.6
+722,Estudiantes (LP),San Martín de San Juan,5,20.0,20.0,60.0,0.8,1.4
+723,Estudiantes (LP),Club Atlético Temperley,4,100.0,0.0,0.0,2.75,0.5
+728,Estudiantes (LP),Atlético de Rafaela,3,66.67,33.33,0.0,1.67,1.0
+734,Estudiantes (LP),Quilmes,2,100.0,0.0,0.0,2.5,0.5
+736,Estudiantes (LP),Instituto,2,50.0,50.0,0.0,1.5,1.0
+750,Estudiantes (LP),Deportivo Riestra,1,100.0,0.0,0.0,2.0,0.0
+751,Estudiantes (LP),Crucero del Norte,1,100.0,0.0,0.0,2.0,1.0
+752,Estudiantes (LP),Club Atlético Nueva Chicago,1,100.0,0.0,0.0,1.0,0.0
+753,Estudiantes (LP),San Martín de Tucumán,1,0.0,100.0,0.0,1.0,1.0
+754,Estudiantes (LP),Independiente Rivadavia,1,0.0,100.0,0.0,1.0,1.0
+755,Estudiantes (LP),Chacarita Juniors,1,0.0,0.0,100.0,0.0,2.0
+756,Lanús,Banfield,17,35.29,29.41,35.29,1.0,0.88
+757,Lanús,Independiente,15,40.0,40.0,20.0,0.93,0.8
+758,Lanús,San Lorenzo,14,42.86,21.43,35.71,1.64,1.43
+759,Lanús,Boca Juniors,14,35.71,21.43,42.86,1.07,1.21
+760,Lanús,Newell's Old Boys,14,28.57,21.43,50.0,0.93,1.29
+761,Lanús,Defensa y Justicia,14,21.43,28.57,50.0,1.0,1.5
+762,Lanús,Estudiantes (LP),13,30.77,46.15,23.08,1.0,0.92
+763,Lanús,Vélez Sarsfield,13,30.77,23.08,46.15,1.08,1.46
+764,Lanús,Unión,13,23.08,46.15,30.77,1.23,1.38
+765,Lanús,Gimnasia y Esgrima (LP),12,66.67,16.67,16.67,1.5,0.58
+766,Lanús,Godoy Cruz,12,41.67,33.33,25.0,2.08,1.42
+767,Lanús,Huracán,12,33.33,16.67,50.0,0.67,1.25
+768,Lanús,Racing Club,12,16.67,0.0,83.33,0.58,1.75
+769,Lanús,Rosario Central,11,36.36,54.55,9.09,1.55,0.91
+770,Lanús,Tigre,11,36.36,45.45,18.18,1.27,1.09
+771,Lanús,River Plate,11,18.18,18.18,63.64,1.0,2.18
+772,Lanús,Belgrano,10,50.0,50.0,0.0,1.6,0.6
+773,Lanús,Atlético Tucumán,10,50.0,30.0,20.0,1.3,0.9
+774,Lanús,Sarmiento,10,50.0,30.0,20.0,1.1,0.7
+775,Lanús,Colón,9,77.78,11.11,11.11,1.78,0.89
+776,Lanús,Talleres,9,66.67,11.11,22.22,2.0,1.78
+777,Lanús,Argentinos Juniors,9,11.11,44.44,44.44,0.22,1.11
+778,Lanús,Arsenal de Sarandí,8,37.5,37.5,25.0,1.25,0.75
+779,Lanús,Central Córdoba (SdE),8,25.0,62.5,12.5,1.25,1.12
+780,Lanús,Aldosivi,8,25.0,12.5,62.5,0.88,1.38
+781,Lanús,Patronato,7,42.86,28.57,28.57,1.86,1.29
+782,Lanús,Platense,6,33.33,50.0,16.67,1.5,1.0
+783,Lanús,San Martín de San Juan,5,0.0,100.0,0.0,1.0,1.0
+785,Lanús,Club Atlético Temperley,4,50.0,50.0,0.0,1.75,1.0
+786,Lanús,Barracas Central,4,50.0,25.0,25.0,1.75,1.25
+790,Lanús,Atlético de Rafaela,3,100.0,0.0,0.0,2.33,0.33
+791,Lanús,Club Olimpo,3,33.33,33.33,33.33,0.67,0.67
+802,Lanús,Quilmes,2,50.0,0.0,50.0,0.5,0.5
+807,Lanús,Instituto,2,50.0,0.0,50.0,1.5,1.0
+817,Lanús,Deportivo Riestra,2,0.0,0.0,100.0,0.5,2.5
+818,Lanús,San Martín de Tucumán,1,100.0,0.0,0.0,2.0,1.0
+819,Lanús,Club Atlético Nueva Chicago,1,100.0,0.0,0.0,1.0,0.0
+820,Lanús,Crucero del Norte,1,100.0,0.0,0.0,3.0,1.0
+821,Lanús,Chacarita Juniors,1,0.0,0.0,100.0,0.0,3.0
+822,Lanús,Independiente Rivadavia,1,0.0,0.0,100.0,0.0,2.0
+823,Atlético Tucumán,Independiente,15,53.33,13.33,33.33,1.2,0.8
+824,Atlético Tucumán,Gimnasia y Esgrima (LP),12,50.0,0.0,50.0,1.33,1.08
+825,Atlético Tucumán,Huracán,12,33.33,25.0,41.67,0.92,1.42
+826,Atlético Tucumán,Talleres,12,25.0,16.67,58.33,1.0,1.67
+827,Atlético Tucumán,Banfield,11,36.36,45.45,18.18,0.91,0.82
+828,Atlético Tucumán,Argentinos Juniors,11,27.27,45.45,27.27,1.45,1.45
+829,Atlético Tucumán,Newell's Old Boys,11,27.27,45.45,27.27,1.18,1.45
+830,Atlético Tucumán,Unión,11,27.27,36.36,36.36,0.73,1.09
+831,Atlético Tucumán,Vélez Sarsfield,11,18.18,45.45,36.36,0.64,1.0
+832,Atlético Tucumán,Defensa y Justicia,11,18.18,36.36,45.45,1.18,1.73
+833,Atlético Tucumán,River Plate,11,0.0,63.64,36.36,0.64,1.36
+834,Atlético Tucumán,Racing Club,10,40.0,20.0,40.0,1.5,1.8
+835,Atlético Tucumán,Central Córdoba (SdE),10,30.0,20.0,50.0,0.6,0.8
+836,Atlético Tucumán,Boca Juniors,10,30.0,20.0,50.0,1.0,1.4
+837,Atlético Tucumán,Rosario Central,10,20.0,40.0,40.0,1.0,1.3
+838,Atlético Tucumán,Lanús,10,20.0,30.0,50.0,0.9,1.3
+839,Atlético Tucumán,San Lorenzo,9,33.33,44.44,22.22,1.0,1.0
+840,Atlético Tucumán,Estudiantes (LP),9,22.22,44.44,33.33,1.11,1.11
+841,Atlético Tucumán,Godoy Cruz,8,62.5,25.0,12.5,1.38,0.88
+842,Atlético Tucumán,Colón,8,37.5,37.5,25.0,1.12,1.0
+843,Atlético Tucumán,Patronato,8,37.5,25.0,37.5,1.5,1.5
+844,Atlético Tucumán,Arsenal de Sarandí,7,57.14,28.57,14.29,1.0,0.57
+845,Atlético Tucumán,Sarmiento,7,57.14,0.0,42.86,1.0,1.43
+846,Atlético Tucumán,Belgrano,7,28.57,42.86,28.57,1.0,1.0
+847,Atlético Tucumán,Tigre,7,14.29,57.14,28.57,0.57,1.0
+848,Atlético Tucumán,Aldosivi,6,33.33,50.0,16.67,0.83,1.0
+849,Atlético Tucumán,San Martín de San Juan,5,80.0,0.0,20.0,2.0,1.2
+850,Atlético Tucumán,Barracas Central,5,60.0,20.0,20.0,1.6,0.6
+851,Atlético Tucumán,Platense,5,20.0,60.0,20.0,1.4,1.8
+854,Atlético Tucumán,Instituto,4,25.0,50.0,25.0,0.5,1.0
+855,Atlético Tucumán,Atlético de Rafaela,3,66.67,0.0,33.33,1.33,0.33
+856,Atlético Tucumán,Club Atlético Temperley,3,33.33,66.67,0.0,2.0,1.0
+858,Atlético Tucumán,Independiente Rivadavia,2,50.0,50.0,0.0,2.0,1.5
+866,Atlético Tucumán,Club Olimpo,2,0.0,50.0,50.0,1.0,1.5
+867,Atlético Tucumán,Deportivo Riestra,2,0.0,0.0,100.0,0.0,1.5
+869,Atlético Tucumán,Quilmes,1,100.0,0.0,0.0,3.0,0.0
+870,Atlético Tucumán,Chacarita Juniors,1,0.0,100.0,0.0,1.0,1.0
+871,Atlético Tucumán,San Martín de Tucumán,1,0.0,0.0,100.0,2.0,3.0
+872,Newell's Old Boys,Rosario Central,17,11.76,35.29,52.94,0.29,0.94
+873,Newell's Old Boys,Lanús,14,50.0,21.43,28.57,1.29,0.93
+874,Newell's Old Boys,Unión,14,35.71,42.86,21.43,1.0,0.71
+875,Newell's Old Boys,Defensa y Justicia,14,35.71,7.14,57.14,0.64,0.93
+876,Newell's Old Boys,Racing Club,13,23.08,30.77,46.15,1.08,1.15
+877,Newell's Old Boys,Boca Juniors,13,7.69,23.08,69.23,0.62,1.69
+878,Newell's Old Boys,San Lorenzo,12,25.0,50.0,25.0,1.25,1.08
+879,Newell's Old Boys,Estudiantes (LP),12,25.0,25.0,50.0,0.92,1.42
+880,Newell's Old Boys,Huracán,11,45.45,18.18,36.36,1.45,1.09
+881,Newell's Old Boys,Atlético Tucumán,11,27.27,45.45,27.27,1.45,1.18
+882,Newell's Old Boys,Banfield,11,27.27,36.36,36.36,0.64,1.0
+883,Newell's Old Boys,Godoy Cruz,11,18.18,27.27,54.55,0.82,1.36
+884,Newell's Old Boys,Gimnasia y Esgrima (LP),11,18.18,18.18,63.64,0.64,1.45
+885,Newell's Old Boys,Tigre,10,60.0,30.0,10.0,1.4,0.8
+886,Newell's Old Boys,Talleres,10,50.0,30.0,20.0,1.6,1.2
+887,Newell's Old Boys,Independiente,10,40.0,10.0,50.0,1.5,1.6
+888,Newell's Old Boys,Sarmiento,10,20.0,50.0,30.0,0.9,1.0
+889,Newell's Old Boys,Vélez Sarsfield,10,30.0,10.0,60.0,0.7,1.0
+890,Newell's Old Boys,River Plate,10,30.0,10.0,60.0,1.2,1.9
+891,Newell's Old Boys,Argentinos Juniors,10,20.0,20.0,60.0,0.4,1.1
+892,Newell's Old Boys,Aldosivi,8,62.5,25.0,12.5,1.25,0.38
+893,Newell's Old Boys,Patronato,8,50.0,50.0,0.0,1.25,0.5
+894,Newell's Old Boys,Colón,8,25.0,37.5,37.5,1.0,0.75
+895,Newell's Old Boys,Belgrano,8,12.5,37.5,50.0,0.38,0.88
+896,Newell's Old Boys,Central Córdoba (SdE),7,71.43,0.0,28.57,1.57,0.71
+897,Newell's Old Boys,Platense,7,42.86,57.14,0.0,1.29,0.57
+898,Newell's Old Boys,Arsenal de Sarandí,7,42.86,28.57,28.57,1.0,1.14
+899,Newell's Old Boys,San Martín de San Juan,5,80.0,0.0,20.0,2.6,0.6
+900,Newell's Old Boys,Club Atlético Temperley,4,0.0,75.0,25.0,0.0,0.5
+901,Newell's Old Boys,Barracas Central,3,66.67,33.33,0.0,1.0,0.33
+902,Newell's Old Boys,Club Olimpo,3,66.67,0.0,33.33,1.67,1.33
+903,Newell's Old Boys,Atlético de Rafaela,3,33.33,66.67,0.0,1.0,0.67
+909,Newell's Old Boys,Quilmes,2,50.0,50.0,0.0,1.0,0.5
+914,Newell's Old Boys,Independiente Rivadavia,2,0.0,50.0,50.0,0.0,0.5
+917,Newell's Old Boys,Instituto,2,0.0,0.0,100.0,0.5,2.5
+918,Newell's Old Boys,Chacarita Juniors,1,100.0,0.0,0.0,2.0,1.0
+919,Newell's Old Boys,Crucero del Norte,1,100.0,0.0,0.0,2.0,0.0
+920,Newell's Old Boys,San Martín de Tucumán,1,100.0,0.0,0.0,3.0,0.0
+921,Newell's Old Boys,Deportivo Riestra,1,0.0,100.0,0.0,3.0,3.0
+922,Newell's Old Boys,Club Atlético Nueva Chicago,1,0.0,0.0,100.0,0.0,5.0
+923,Unión,Colón,15,26.67,66.67,6.67,0.93,0.53
+924,Unión,Defensa y Justicia,14,28.57,35.71,35.71,1.07,1.07
+925,Unión,Boca Juniors,14,28.57,21.43,50.0,1.0,1.43
+926,Unión,Newell's Old Boys,14,21.43,42.86,35.71,0.71,1.0
+927,Unión,Lanús,13,30.77,46.15,23.08,1.38,1.23
+928,Unión,Racing Club,13,23.08,23.08,53.85,1.0,1.54
+929,Unión,Estudiantes (LP),13,15.38,23.08,61.54,0.62,1.38
+930,Unión,San Lorenzo,12,16.67,50.0,33.33,1.25,1.17
+931,Unión,Godoy Cruz,11,54.55,27.27,18.18,1.27,0.82
+932,Unión,Huracán,11,36.36,45.45,18.18,0.73,0.45
+933,Unión,Gimnasia y Esgrima (LP),11,45.45,18.18,36.36,1.09,1.18
+934,Unión,Atlético Tucumán,11,36.36,36.36,27.27,1.09,0.73
+935,Unión,Tigre,11,27.27,27.27,45.45,1.09,1.64
+936,Unión,Argentinos Juniors,10,60.0,0.0,40.0,1.5,1.3
+937,Unión,Sarmiento,10,50.0,10.0,40.0,1.0,1.0
+938,Unión,Banfield,10,40.0,30.0,30.0,1.2,1.1
+939,Unión,Vélez Sarsfield,10,40.0,10.0,50.0,0.8,1.6
+940,Unión,Talleres,10,30.0,40.0,30.0,1.4,1.3
+941,Unión,Independiente,10,20.0,30.0,50.0,0.8,1.3
+942,Unión,River Plate,10,20.0,30.0,50.0,0.7,1.7
+943,Unión,Rosario Central,9,44.44,33.33,22.22,1.33,0.56
+944,Unión,Aldosivi,8,37.5,50.0,12.5,1.25,1.0
+945,Unión,Patronato,8,37.5,37.5,25.0,1.12,0.88
+946,Unión,Belgrano,8,0.0,50.0,50.0,0.62,1.75
+947,Unión,Arsenal de Sarandí,7,28.57,28.57,42.86,0.71,1.14
+948,Unión,Platense,7,14.29,28.57,57.14,0.29,0.71
+949,Unión,Central Córdoba (SdE),7,14.29,28.57,57.14,0.57,1.71
+950,Unión,San Martín de San Juan,5,0.0,80.0,20.0,0.4,0.8
+951,Unión,Club Atlético Temperley,4,100.0,0.0,0.0,2.5,0.5
+952,Unión,Club Olimpo,3,66.67,33.33,0.0,1.0,0.0
+953,Unión,Barracas Central,3,66.67,33.33,0.0,1.67,0.67
+954,Unión,Atlético de Rafaela,3,33.33,33.33,33.33,1.33,2.0
+955,Unión,Independiente Rivadavia,2,100.0,0.0,0.0,2.5,0.5
+957,Unión,Quilmes,2,50.0,50.0,0.0,2.0,1.0
+964,Unión,Instituto,2,0.0,50.0,50.0,0.5,1.5
+966,Unión,Crucero del Norte,1,100.0,0.0,0.0,5.0,2.0
+967,Unión,Chacarita Juniors,1,0.0,100.0,0.0,0.0,0.0
+968,Unión,Deportivo Riestra,1,0.0,100.0,0.0,0.0,0.0
+969,Unión,Club Atlético Nueva Chicago,1,0.0,100.0,0.0,2.0,2.0
+970,Unión,San Martín de Tucumán,1,0.0,100.0,0.0,1.0,1.0
+971,Defensa y Justicia,Newell's Old Boys,14,57.14,7.14,35.71,0.93,0.64
+972,Defensa y Justicia,Lanús,14,50.0,28.57,21.43,1.5,1.0
+973,Defensa y Justicia,Unión,14,35.71,35.71,28.57,1.07,1.07
+974,Defensa y Justicia,Boca Juniors,14,14.29,35.71,50.0,0.5,0.93
+975,Defensa y Justicia,Banfield,13,69.23,23.08,7.69,1.31,0.46
+976,Defensa y Justicia,Racing Club,13,23.08,69.23,7.69,1.77,1.62
+977,Defensa y Justicia,Arsenal de Sarandí,13,30.77,30.77,38.46,0.62,0.69
+978,Defensa y Justicia,Estudiantes (LP),12,50.0,16.67,33.33,1.17,1.0
+979,Defensa y Justicia,San Lorenzo,12,33.33,25.0,41.67,1.08,1.17
+980,Defensa y Justicia,Gimnasia y Esgrima (LP),11,63.64,27.27,9.09,1.64,1.0
+981,Defensa y Justicia,Argentinos Juniors,11,54.55,18.18,27.27,1.55,1.0
+982,Defensa y Justicia,Atlético Tucumán,11,45.45,36.36,18.18,1.73,1.18
+983,Defensa y Justicia,Godoy Cruz,11,36.36,36.36,27.27,1.36,1.27
+984,Defensa y Justicia,Huracán,11,9.09,36.36,54.55,0.82,1.64
+985,Defensa y Justicia,Tigre,10,70.0,30.0,0.0,1.4,0.2
+986,Defensa y Justicia,Talleres,10,40.0,30.0,30.0,1.8,1.0
+987,Defensa y Justicia,Independiente,10,40.0,20.0,40.0,0.7,0.6
+988,Defensa y Justicia,River Plate,10,30.0,40.0,30.0,1.1,1.2
+989,Defensa y Justicia,Sarmiento,10,30.0,20.0,50.0,1.5,1.6
+990,Defensa y Justicia,Vélez Sarsfield,10,20.0,40.0,40.0,0.8,1.2
+991,Defensa y Justicia,Rosario Central,9,55.56,33.33,11.11,1.78,0.78
+992,Defensa y Justicia,Patronato,8,62.5,12.5,25.0,1.38,1.0
+993,Defensa y Justicia,Aldosivi,8,62.5,12.5,25.0,2.12,0.5
+994,Defensa y Justicia,Belgrano,8,37.5,37.5,25.0,1.0,0.88
+995,Defensa y Justicia,Colón,8,37.5,25.0,37.5,1.38,1.12
+996,Defensa y Justicia,Central Córdoba (SdE),8,25.0,25.0,50.0,1.0,1.38
+997,Defensa y Justicia,Platense,7,28.57,42.86,28.57,1.0,0.86
+998,Defensa y Justicia,San Martín de San Juan,5,20.0,60.0,20.0,0.6,0.6
+999,Defensa y Justicia,Club Atlético Temperley,4,75.0,0.0,25.0,2.25,1.25
+1002,Defensa y Justicia,Quilmes,3,66.67,0.0,33.33,1.33,0.33
+1003,Defensa y Justicia,Barracas Central,3,66.67,0.0,33.33,1.33,1.0
+1004,Defensa y Justicia,Atlético de Rafaela,3,66.67,0.0,33.33,2.0,1.0
+1005,Defensa y Justicia,Club Olimpo,3,0.0,100.0,0.0,0.67,0.67
+1014,Defensa y Justicia,Instituto,2,50.0,0.0,50.0,1.0,2.0
+1025,Defensa y Justicia,Deportivo Riestra,2,0.0,100.0,0.0,1.0,1.0
+1033,Defensa y Justicia,Club Atlético Nueva Chicago,1,100.0,0.0,0.0,2.0,1.0
+1034,Defensa y Justicia,San Martín de Tucumán,1,100.0,0.0,0.0,2.0,1.0
+1035,Defensa y Justicia,Chacarita Juniors,1,100.0,0.0,0.0,4.0,2.0
+1036,Defensa y Justicia,Independiente Rivadavia,1,0.0,0.0,100.0,0.0,1.0
+1037,Defensa y Justicia,Crucero del Norte,1,0.0,0.0,100.0,1.0,3.0
+1038,Sarmiento,Defensa y Justicia,10,50.0,20.0,30.0,1.6,1.5
+1039,Sarmiento,Newell's Old Boys,10,30.0,50.0,20.0,1.0,0.9
+1040,Sarmiento,Unión,10,40.0,10.0,50.0,1.0,1.0
+1041,Sarmiento,Lanús,10,20.0,30.0,50.0,0.7,1.1
+1042,Sarmiento,San Lorenzo,10,20.0,10.0,70.0,0.6,1.4
+1043,Sarmiento,Godoy Cruz,10,0.0,70.0,30.0,0.6,0.9
+1044,Sarmiento,Gimnasia y Esgrima (LP),9,22.22,55.56,22.22,0.67,0.67
+1045,Sarmiento,Tigre,9,22.22,33.33,44.44,0.67,0.78
+1046,Sarmiento,Racing Club,9,22.22,22.22,55.56,0.78,1.33
+1047,Sarmiento,Boca Juniors,9,11.11,22.22,66.67,0.33,1.33
+1048,Sarmiento,Independiente,9,0.0,44.44,55.56,0.44,1.67
+1049,Sarmiento,Platense,8,25.0,25.0,50.0,0.38,0.75
+1050,Sarmiento,Estudiantes (LP),8,25.0,12.5,62.5,1.0,1.38
+1051,Sarmiento,Banfield,8,0.0,87.5,12.5,0.38,0.62
+1052,Sarmiento,Vélez Sarsfield,8,12.5,37.5,50.0,0.75,1.5
+1053,Sarmiento,River Plate,8,12.5,25.0,62.5,0.88,2.5
+1054,Sarmiento,Patronato,7,42.86,14.29,42.86,1.14,1.29
+1055,Sarmiento,Atlético Tucumán,7,42.86,0.0,57.14,1.43,1.0
+1056,Sarmiento,Rosario Central,7,28.57,28.57,42.86,1.43,1.43
+1057,Sarmiento,Belgrano,7,14.29,42.86,42.86,0.57,1.57
+1058,Sarmiento,Huracán,7,0.0,42.86,57.14,0.29,1.86
+1059,Sarmiento,Talleres,7,0.0,14.29,85.71,0.43,1.86
+1060,Sarmiento,Arsenal de Sarandí,6,66.67,0.0,33.33,1.0,0.5
+1061,Sarmiento,Colón,6,50.0,16.67,33.33,1.0,1.33
+1062,Sarmiento,Argentinos Juniors,6,33.33,50.0,16.67,0.5,0.33
+1063,Sarmiento,Central Córdoba (SdE),6,16.67,16.67,66.67,0.5,1.67
+1064,Sarmiento,Barracas Central,6,0.0,66.67,33.33,1.17,1.67
+1065,Sarmiento,Aldosivi,4,50.0,25.0,25.0,1.75,1.25
+1066,Sarmiento,Club Olimpo,4,25.0,50.0,25.0,0.5,0.5
+1067,Sarmiento,Quilmes,3,66.67,33.33,0.0,3.0,1.0
+1068,Sarmiento,Club Atlético Temperley,2,50.0,50.0,0.0,1.0,0.5
+1069,Sarmiento,Atlético de Rafaela,2,50.0,0.0,50.0,1.5,1.5
+1070,Sarmiento,San Martín de San Juan,2,50.0,0.0,50.0,1.5,2.0
+1071,Sarmiento,Instituto,2,0.0,50.0,50.0,0.5,1.0
+1072,Sarmiento,Crucero del Norte,1,100.0,0.0,0.0,2.0,1.0
+1073,Sarmiento,Deportivo Riestra,1,0.0,0.0,100.0,1.0,2.0
+1074,Sarmiento,Independiente Rivadavia,1,0.0,0.0,100.0,0.0,1.0
+1075,Sarmiento,Club Atlético Nueva Chicago,1,0.0,0.0,100.0,1.0,2.0
+1076,Belgrano,Estudiantes (LP),10,50.0,10.0,40.0,1.1,1.3
+1077,Belgrano,Lanús,10,0.0,50.0,50.0,0.6,1.6
+1078,Belgrano,Racing Club,9,11.11,44.44,44.44,1.0,2.11
+1079,Belgrano,San Lorenzo,9,11.11,44.44,44.44,0.89,1.22
+1080,Belgrano,Godoy Cruz,9,22.22,11.11,66.67,0.44,1.11
+1081,Belgrano,Unión,8,50.0,50.0,0.0,1.75,0.62
+1082,Belgrano,Newell's Old Boys,8,50.0,37.5,12.5,0.88,0.38
+1083,Belgrano,Colón,8,37.5,37.5,25.0,0.62,0.75
+1084,Belgrano,Defensa y Justicia,8,25.0,37.5,37.5,0.88,1.0
+1085,Belgrano,Tigre,8,25.0,25.0,50.0,1.0,1.38
+1086,Belgrano,Talleres,8,0.0,87.5,12.5,0.62,1.0
+1087,Belgrano,Boca Juniors,8,25.0,12.5,62.5,1.12,2.12
+1088,Belgrano,River Plate,8,25.0,12.5,62.5,1.12,1.88
+1089,Belgrano,Independiente,8,12.5,25.0,62.5,0.62,1.5
+1090,Belgrano,Gimnasia y Esgrima (LP),7,57.14,14.29,28.57,1.43,0.43
+1091,Belgrano,Sarmiento,7,42.86,42.86,14.29,1.57,0.57
+1092,Belgrano,Vélez Sarsfield,7,42.86,28.57,28.57,1.57,1.29
+1093,Belgrano,Banfield,7,28.57,42.86,28.57,1.14,1.14
+1094,Belgrano,Atlético Tucumán,7,28.57,42.86,28.57,1.0,1.0
+1095,Belgrano,Huracán,7,28.57,42.86,28.57,0.71,0.57
+1096,Belgrano,Rosario Central,7,14.29,28.57,57.14,0.57,1.29
+1097,Belgrano,Argentinos Juniors,5,60.0,20.0,20.0,1.0,1.0
+1098,Belgrano,Arsenal de Sarandí,5,60.0,20.0,20.0,2.0,1.0
+1099,Belgrano,Central Córdoba (SdE),4,50.0,50.0,0.0,1.5,1.0
+1100,Belgrano,San Martín de San Juan,4,25.0,50.0,25.0,0.75,0.75
+1101,Belgrano,Patronato,4,25.0,50.0,25.0,1.75,1.25
+1102,Belgrano,Club Olimpo,4,25.0,50.0,25.0,0.5,0.75
+1103,Belgrano,Platense,4,25.0,25.0,50.0,1.0,0.75
+1104,Belgrano,Quilmes,3,33.33,66.67,0.0,1.33,1.0
+1105,Belgrano,Atlético de Rafaela,3,33.33,66.67,0.0,1.0,0.67
+1106,Belgrano,Aldosivi,3,0.0,33.33,66.67,0.0,1.0
+1107,Belgrano,Club Atlético Temperley,3,0.0,33.33,66.67,1.0,1.67
+1110,Belgrano,Instituto,2,50.0,0.0,50.0,1.5,1.0
+1113,Belgrano,Barracas Central,2,0.0,50.0,50.0,0.5,1.5
+1114,Belgrano,Independiente Rivadavia,2,0.0,0.0,100.0,0.0,2.5
+1116,Belgrano,Crucero del Norte,1,100.0,0.0,0.0,1.0,0.0
+1117,Belgrano,Deportivo Riestra,1,100.0,0.0,0.0,2.0,1.0
+1118,Belgrano,Chacarita Juniors,1,100.0,0.0,0.0,1.0,0.0
+1119,Belgrano,Club Atlético Nueva Chicago,1,100.0,0.0,0.0,3.0,1.0
+1120,Belgrano,San Martín de Tucumán,1,0.0,100.0,0.0,0.0,0.0
+1121,Tigre,Vélez Sarsfield,13,38.46,23.08,38.46,1.46,1.38
+1122,Tigre,Boca Juniors,12,25.0,8.33,66.67,1.0,1.75
+1123,Tigre,Unión,11,45.45,27.27,27.27,1.64,1.09
+1124,Tigre,Estudiantes (LP),11,45.45,18.18,36.36,1.0,1.0
+1125,Tigre,Huracán,11,36.36,18.18,45.45,1.09,1.45
+1126,Tigre,Lanús,11,18.18,45.45,36.36,1.09,1.27
+1127,Tigre,Godoy Cruz,10,20.0,30.0,50.0,0.8,1.4
+1128,Tigre,Newell's Old Boys,10,10.0,30.0,60.0,0.8,1.4
+1129,Tigre,Racing Club,10,0.0,50.0,50.0,1.1,2.3
+1130,Tigre,Defensa y Justicia,10,0.0,30.0,70.0,0.2,1.4
+1131,Tigre,Sarmiento,9,44.44,33.33,22.22,0.78,0.67
+1132,Tigre,San Lorenzo,9,33.33,44.44,22.22,1.33,1.22
+1133,Tigre,Argentinos Juniors,9,33.33,22.22,44.44,1.11,1.0
+1134,Tigre,Belgrano,8,50.0,25.0,25.0,1.38,1.0
+1135,Tigre,Rosario Central,8,37.5,37.5,25.0,1.5,1.0
+1136,Tigre,Colón,8,37.5,12.5,50.0,1.38,1.75
+1137,Tigre,River Plate,8,25.0,37.5,37.5,1.0,1.38
+1138,Tigre,Independiente,8,12.5,62.5,25.0,0.88,1.0
+1139,Tigre,Atlético Tucumán,7,28.57,57.14,14.29,1.0,0.57
+1140,Tigre,Gimnasia y Esgrima (LP),7,28.57,42.86,28.57,1.0,1.0
+1141,Tigre,Banfield,7,28.57,14.29,57.14,1.43,1.57
+1142,Tigre,Aldosivi,6,66.67,16.67,16.67,1.67,0.5
+1143,Tigre,Talleres,6,33.33,50.0,16.67,1.33,1.17
+1144,Tigre,Platense,6,33.33,33.33,33.33,1.5,0.83
+1145,Tigre,Central Córdoba (SdE),6,33.33,33.33,33.33,0.83,1.0
+1146,Tigre,Arsenal de Sarandí,6,0.0,33.33,66.67,0.33,1.67
+1147,Tigre,San Martín de San Juan,5,0.0,60.0,40.0,0.8,1.4
+1148,Tigre,Patronato,4,50.0,0.0,50.0,1.25,1.25
+1149,Tigre,Barracas Central,4,25.0,50.0,25.0,0.75,0.5
+1150,Tigre,Club Atlético Temperley,4,0.0,25.0,75.0,0.75,2.0
+1151,Tigre,Club Olimpo,3,100.0,0.0,0.0,3.33,0.67
+1152,Tigre,Atlético de Rafaela,3,66.67,33.33,0.0,1.0,0.33
+1155,Tigre,Instituto,2,50.0,50.0,0.0,0.5,0.0
+1156,Tigre,Quilmes,2,50.0,0.0,50.0,1.5,0.5
+1162,Tigre,Deportivo Riestra,1,100.0,0.0,0.0,2.0,1.0
+1163,Tigre,Club Atlético Nueva Chicago,1,100.0,0.0,0.0,2.0,0.0
+1164,Tigre,San Martín de Tucumán,1,0.0,100.0,0.0,2.0,2.0
+1165,Tigre,Chacarita Juniors,1,0.0,100.0,0.0,1.0,1.0
+1166,Tigre,Crucero del Norte,1,0.0,100.0,0.0,0.0,0.0
+1167,Tigre,Independiente Rivadavia,1,0.0,0.0,100.0,0.0,2.0
+1168,Aldosivi,Banfield,9,22.22,22.22,55.56,1.0,1.78
+1169,Aldosivi,Estudiantes (LP),9,22.22,0.0,77.78,1.0,1.67
+1170,Aldosivi,Racing Club,9,11.11,22.22,66.67,0.78,2.56
+1171,Aldosivi,Lanús,8,62.5,12.5,25.0,1.38,0.88
+1172,Aldosivi,Colón,8,50.0,25.0,25.0,1.75,0.88
+1173,Aldosivi,Rosario Central,8,37.5,12.5,50.0,0.88,1.62
+1174,Aldosivi,Huracán,8,25.0,12.5,62.5,0.5,1.38
+1175,Aldosivi,Defensa y Justicia,8,25.0,12.5,62.5,0.5,2.12
+1176,Aldosivi,Unión,8,12.5,50.0,37.5,1.0,1.25
+1177,Aldosivi,Godoy Cruz,8,25.0,0.0,75.0,1.12,2.0
+1178,Aldosivi,Newell's Old Boys,8,12.5,25.0,62.5,0.38,1.25
+1179,Aldosivi,Boca Juniors,8,12.5,12.5,75.0,0.88,2.25
+1180,Aldosivi,Argentinos Juniors,7,57.14,14.29,28.57,1.57,1.43
+1181,Aldosivi,San Lorenzo,7,57.14,14.29,28.57,1.29,1.29
+1182,Aldosivi,Arsenal de Sarandí,7,57.14,0.0,42.86,1.57,1.57
+1183,Aldosivi,Independiente,7,28.57,42.86,28.57,0.43,0.86
+1184,Aldosivi,Patronato,7,14.29,42.86,42.86,0.71,1.14
+1185,Aldosivi,Vélez Sarsfield,7,14.29,28.57,57.14,0.86,1.71
+1186,Aldosivi,River Plate,7,0.0,14.29,85.71,0.43,2.0
+1187,Aldosivi,Atlético Tucumán,6,16.67,50.0,33.33,1.0,0.83
+1188,Aldosivi,Tigre,6,16.67,16.67,66.67,0.5,1.67
+1189,Aldosivi,Gimnasia y Esgrima (LP),6,0.0,33.33,66.67,0.33,1.83
+1190,Aldosivi,Central Córdoba (SdE),6,0.0,33.33,66.67,0.17,1.33
+1191,Aldosivi,Talleres,5,20.0,20.0,60.0,0.8,1.6
+1192,Aldosivi,Club Olimpo,5,20.0,0.0,80.0,1.0,2.0
+1193,Aldosivi,San Martín de San Juan,4,50.0,25.0,25.0,1.5,1.0
+1194,Aldosivi,Sarmiento,4,25.0,25.0,50.0,1.25,1.75
+1195,Aldosivi,Belgrano,3,66.67,33.33,0.0,1.0,0.0
+1196,Aldosivi,Platense,3,66.67,33.33,0.0,1.0,0.0
+1197,Aldosivi,Atlético de Rafaela,3,66.67,0.0,33.33,1.33,1.0
+1198,Aldosivi,Club Atlético Temperley,3,0.0,66.67,33.33,0.33,0.67
+1199,Aldosivi,Crucero del Norte,2,100.0,0.0,0.0,2.0,0.0
+1200,Aldosivi,Barracas Central,2,50.0,0.0,50.0,1.5,1.0
+1201,Aldosivi,Quilmes,2,0.0,50.0,50.0,0.5,1.0
+1202,Aldosivi,San Martín de Tucumán,1,100.0,0.0,0.0,2.0,0.0
+1203,Aldosivi,Club Atlético Nueva Chicago,1,0.0,0.0,100.0,1.0,3.0
+1204,Platense,Argentinos Juniors,9,33.33,33.33,33.33,0.78,0.78
+1205,Platense,Sarmiento,8,50.0,25.0,25.0,0.75,0.38
+1206,Platense,Racing Club,8,37.5,25.0,37.5,0.88,0.75
+1207,Platense,Godoy Cruz,8,25.0,25.0,50.0,1.12,1.62
+1208,Platense,San Lorenzo,8,0.0,50.0,50.0,0.88,1.62
+1209,Platense,Central Córdoba (SdE),7,57.14,28.57,14.29,1.57,0.86
+1210,Platense,Unión,7,57.14,28.57,14.29,0.71,0.29
+1211,Platense,Estudiantes (LP),7,28.57,42.86,28.57,1.0,1.14
+1212,Platense,Defensa y Justicia,7,28.57,42.86,28.57,0.86,1.0
+1213,Platense,Newell's Old Boys,7,0.0,57.14,42.86,0.57,1.29
+1214,Platense,River Plate,7,0.0,28.57,71.43,0.57,1.29
+1215,Platense,Banfield,6,66.67,0.0,33.33,1.67,0.83
+1216,Platense,Rosario Central,6,33.33,33.33,33.33,1.17,1.33
+1217,Platense,Tigre,6,33.33,33.33,33.33,0.83,1.5
+1218,Platense,Lanús,6,16.67,50.0,33.33,1.0,1.5
+1219,Platense,Boca Juniors,6,16.67,16.67,66.67,0.83,1.83
+1220,Platense,Vélez Sarsfield,5,60.0,20.0,20.0,1.2,1.0
+1221,Platense,Atlético Tucumán,5,20.0,60.0,20.0,1.8,1.4
+1222,Platense,Gimnasia y Esgrima (LP),5,20.0,60.0,20.0,1.0,1.4
+1223,Platense,Talleres,5,20.0,20.0,60.0,1.0,1.6
+1224,Platense,Huracán,5,20.0,20.0,60.0,1.0,1.4
+1225,Platense,Arsenal de Sarandí,4,50.0,50.0,0.0,1.25,0.5
+1226,Platense,Independiente,4,50.0,50.0,0.0,1.5,0.75
+1227,Platense,Belgrano,4,50.0,25.0,25.0,0.75,1.0
+1228,Platense,Colón,4,0.0,25.0,75.0,0.5,2.0
+1229,Platense,Barracas Central,3,0.0,66.67,33.33,0.0,0.33
+1230,Platense,Aldosivi,3,0.0,33.33,66.67,0.0,1.0
+1231,Platense,Patronato,3,0.0,33.33,66.67,0.33,1.0
+1232,Platense,Instituto,2,50.0,0.0,50.0,0.5,1.0
+1233,Platense,Independiente Rivadavia,1,100.0,0.0,0.0,2.0,0.0
+1234,Platense,Deportivo Riestra,1,0.0,100.0,0.0,0.0,0.0
+1235,Central Córdoba (SdE),Atlético Tucumán,10,50.0,20.0,30.0,0.8,0.6
+1236,Central Córdoba (SdE),Godoy Cruz,9,22.22,22.22,55.56,0.56,0.89
+1237,Central Córdoba (SdE),Estudiantes (LP),9,0.0,44.44,55.56,0.67,2.11
+1238,Central Córdoba (SdE),Defensa y Justicia,8,50.0,25.0,25.0,1.38,1.0
+1239,Central Córdoba (SdE),Racing Club,8,25.0,37.5,37.5,1.0,1.38
+1240,Central Córdoba (SdE),Lanús,8,12.5,62.5,25.0,1.12,1.25
+1241,Central Córdoba (SdE),San Lorenzo,8,25.0,25.0,50.0,1.0,0.88
+1242,Central Córdoba (SdE),Boca Juniors,8,12.5,12.5,75.0,0.62,2.88
+1243,Central Córdoba (SdE),Unión,7,57.14,28.57,14.29,1.71,0.57
+1244,Central Córdoba (SdE),Newell's Old Boys,7,28.57,0.0,71.43,0.71,1.57
+1245,Central Córdoba (SdE),Platense,7,14.29,28.57,57.14,0.86,1.57
+1246,Central Córdoba (SdE),Rosario Central,7,14.29,28.57,57.14,1.14,1.57
+1247,Central Córdoba (SdE),Aldosivi,6,66.67,33.33,0.0,1.33,0.17
+1248,Central Córdoba (SdE),Sarmiento,6,66.67,16.67,16.67,1.67,0.5
+1249,Central Córdoba (SdE),Arsenal de Sarandí,6,33.33,50.0,16.67,2.0,1.33
+1250,Central Córdoba (SdE),Tigre,6,33.33,33.33,33.33,1.0,0.83
+1251,Central Córdoba (SdE),Independiente,6,33.33,16.67,50.0,0.67,1.33
+1252,Central Córdoba (SdE),Colón,6,33.33,16.67,50.0,1.0,1.33
+1253,Central Córdoba (SdE),Huracán,6,16.67,50.0,33.33,1.0,1.17
+1254,Central Córdoba (SdE),Argentinos Juniors,6,16.67,33.33,50.0,0.83,1.33
+1255,Central Córdoba (SdE),Vélez Sarsfield,6,16.67,16.67,66.67,0.67,2.0
+1256,Central Córdoba (SdE),Banfield,6,0.0,66.67,33.33,0.67,1.0
+1257,Central Córdoba (SdE),River Plate,6,0.0,0.0,100.0,0.17,3.0
+1258,Central Córdoba (SdE),Talleres,5,40.0,20.0,40.0,1.4,1.6
+1259,Central Córdoba (SdE),Gimnasia y Esgrima (LP),5,20.0,60.0,20.0,0.8,0.8
+1260,Central Córdoba (SdE),Barracas Central,4,50.0,50.0,0.0,2.0,1.25
+1261,Central Córdoba (SdE),Belgrano,4,0.0,50.0,50.0,1.0,1.5
+1262,Central Córdoba (SdE),Patronato,3,33.33,0.0,66.67,1.33,2.0
+1263,Central Córdoba (SdE),Instituto,2,100.0,0.0,0.0,2.0,0.5
+1264,Central Córdoba (SdE),Independiente Rivadavia,1,100.0,0.0,0.0,2.0,0.0
+1265,Central Córdoba (SdE),Deportivo Riestra,1,0.0,0.0,100.0,0.0,1.0
+1266,Instituto,Gimnasia y Esgrima (LP),5,60.0,20.0,20.0,1.8,1.0
+1267,Instituto,Vélez Sarsfield,5,40.0,0.0,60.0,0.6,0.6
+1268,Instituto,River Plate,5,0.0,20.0,80.0,0.8,2.0
+1269,Instituto,Huracán,4,50.0,25.0,25.0,1.25,0.5
+1270,Instituto,Argentinos Juniors,4,50.0,25.0,25.0,1.0,0.75
+1271,Instituto,Banfield,4,50.0,25.0,25.0,1.25,0.75
+1272,Instituto,Independiente,4,25.0,50.0,25.0,1.25,1.25
+1273,Instituto,Atlético Tucumán,4,25.0,50.0,25.0,1.0,0.5
+1274,Instituto,Talleres,4,0.0,75.0,25.0,0.75,1.5
+1275,Instituto,Rosario Central,4,0.0,50.0,50.0,0.25,1.25
+1276,Instituto,Barracas Central,4,0.0,25.0,75.0,0.5,1.75
+1277,Instituto,Godoy Cruz,4,0.0,25.0,75.0,1.0,2.5
+1278,Instituto,Colón,2,100.0,0.0,0.0,2.0,0.5
+1279,Instituto,Arsenal de Sarandí,2,100.0,0.0,0.0,1.5,0.0
+1280,Instituto,Newell's Old Boys,2,100.0,0.0,0.0,2.5,0.5
+1281,Instituto,Sarmiento,2,50.0,50.0,0.0,1.0,0.5
+1282,Instituto,Deportivo Riestra,2,50.0,50.0,0.0,1.0,0.5
+1283,Instituto,Boca Juniors,2,50.0,50.0,0.0,1.5,1.0
+1284,Instituto,Independiente Rivadavia,2,50.0,50.0,0.0,1.5,0.5
+1285,Instituto,Unión,2,50.0,50.0,0.0,1.5,0.5
+1286,Instituto,Defensa y Justicia,2,50.0,0.0,50.0,2.0,1.0
+1287,Instituto,Belgrano,2,50.0,0.0,50.0,1.0,1.5
+1288,Instituto,San Lorenzo,2,50.0,0.0,50.0,1.0,1.0
+1289,Instituto,Platense,2,50.0,0.0,50.0,1.0,0.5
+1290,Instituto,Lanús,2,50.0,0.0,50.0,1.0,1.5
+1291,Instituto,Racing Club,2,0.0,50.0,50.0,0.5,1.5
+1292,Instituto,Estudiantes (LP),2,0.0,50.0,50.0,1.0,1.5
+1293,Instituto,Tigre,2,0.0,50.0,50.0,0.0,0.5
+1294,Instituto,Central Córdoba (SdE),2,0.0,0.0,100.0,0.5,2.0
+1295,Barracas Central,Rosario Central,6,50.0,33.33,16.67,1.33,1.0
+1296,Barracas Central,Sarmiento,6,33.33,66.67,0.0,1.67,1.17
+1297,Barracas Central,Banfield,6,33.33,50.0,16.67,0.5,0.33
+1298,Barracas Central,Huracán,6,33.33,33.33,33.33,0.67,1.0
+1299,Barracas Central,Independiente,6,0.0,66.67,33.33,0.83,1.5
+1300,Barracas Central,Vélez Sarsfield,6,0.0,50.0,50.0,0.33,1.5
+1301,Barracas Central,Talleres,5,40.0,20.0,40.0,1.0,1.8
+1302,Barracas Central,Argentinos Juniors,5,20.0,60.0,20.0,1.2,1.4
+1303,Barracas Central,Gimnasia y Esgrima (LP),5,20.0,20.0,60.0,0.8,1.4
+1304,Barracas Central,Atlético Tucumán,5,20.0,20.0,60.0,0.6,1.6
+1305,Barracas Central,River Plate,5,20.0,0.0,80.0,0.6,2.6
+1306,Barracas Central,Estudiantes (LP),5,0.0,20.0,80.0,1.0,3.6
+1307,Barracas Central,Arsenal de Sarandí,4,75.0,25.0,0.0,1.25,0.5
+1308,Barracas Central,Instituto,4,75.0,25.0,0.0,1.75,0.5
+1309,Barracas Central,Godoy Cruz,4,75.0,0.0,25.0,1.75,0.75
+1310,Barracas Central,Colón,4,50.0,25.0,25.0,1.25,1.0
+1311,Barracas Central,Tigre,4,25.0,50.0,25.0,0.5,0.75
+1312,Barracas Central,Lanús,4,25.0,25.0,50.0,1.25,1.75
+1313,Barracas Central,Racing Club,4,0.0,50.0,50.0,0.5,1.5
+1314,Barracas Central,Central Córdoba (SdE),4,0.0,50.0,50.0,1.25,2.0
+1315,Barracas Central,Boca Juniors,4,0.0,25.0,75.0,0.5,2.25
+1316,Barracas Central,San Lorenzo,3,66.67,0.0,33.33,1.0,0.67
+1317,Barracas Central,Independiente Rivadavia,3,33.33,66.67,0.0,1.33,0.67
+1318,Barracas Central,Platense,3,33.33,66.67,0.0,0.33,0.0
+1319,Barracas Central,Defensa y Justicia,3,33.33,0.0,66.67,1.0,1.33
+1320,Barracas Central,Unión,3,0.0,33.33,66.67,0.67,1.67
+1321,Barracas Central,Newell's Old Boys,3,0.0,33.33,66.67,0.33,1.0
+1322,Barracas Central,Deportivo Riestra,2,50.0,50.0,0.0,0.5,0.0
+1323,Barracas Central,Belgrano,2,50.0,50.0,0.0,1.5,0.5
+1324,Barracas Central,Aldosivi,2,50.0,0.0,50.0,1.0,1.5
+1325,Barracas Central,Patronato,1,100.0,0.0,0.0,2.0,1.0
+1326,San Martín de San Juan,Godoy Cruz,8,12.5,37.5,50.0,0.62,1.0
+1327,San Martín de San Juan,Estudiantes (LP),5,60.0,20.0,20.0,1.4,0.8
+1328,San Martín de San Juan,Tigre,5,40.0,60.0,0.0,1.4,0.8
+1329,San Martín de San Juan,Gimnasia y Esgrima (LP),5,40.0,20.0,40.0,1.4,1.6
+1330,San Martín de San Juan,Unión,5,20.0,80.0,0.0,0.8,0.4
+1331,San Martín de San Juan,Defensa y Justicia,5,20.0,60.0,20.0,0.6,0.6
+1332,San Martín de San Juan,Lanús,5,0.0,100.0,0.0,1.0,1.0
+1333,San Martín de San Juan,Rosario Central,5,20.0,40.0,40.0,1.0,1.0
+1334,San Martín de San Juan,Newell's Old Boys,5,20.0,0.0,80.0,0.6,2.6
+1335,San Martín de San Juan,Atlético Tucumán,5,20.0,0.0,80.0,1.2,2.0
+1336,San Martín de San Juan,Huracán,5,20.0,0.0,80.0,1.4,2.0
+1337,San Martín de San Juan,Racing Club,5,0.0,40.0,60.0,0.4,1.4
+1338,San Martín de San Juan,Boca Juniors,5,0.0,20.0,80.0,0.8,2.4
+1339,San Martín de San Juan,Vélez Sarsfield,4,75.0,0.0,25.0,2.0,1.0
+1340,San Martín de San Juan,Club Atlético Temperley,4,50.0,0.0,50.0,0.75,0.5
+1341,San Martín de San Juan,Belgrano,4,25.0,50.0,25.0,0.75,0.75
+1342,San Martín de San Juan,Aldosivi,4,25.0,25.0,50.0,1.0,1.5
+1343,San Martín de San Juan,Argentinos Juniors,4,25.0,25.0,50.0,1.0,1.25
+1344,San Martín de San Juan,San Lorenzo,4,25.0,25.0,50.0,1.5,2.0
+1345,San Martín de San Juan,Banfield,4,25.0,25.0,50.0,1.75,2.0
+1346,San Martín de San Juan,Colón,4,0.0,100.0,0.0,1.25,1.25
+1347,San Martín de San Juan,River Plate,4,25.0,25.0,50.0,1.0,2.0
+1348,San Martín de San Juan,Independiente,4,0.0,75.0,25.0,0.5,1.5
+1349,San Martín de San Juan,Club Olimpo,3,66.67,33.33,0.0,1.33,0.0
+1350,San Martín de San Juan,Arsenal de Sarandí,3,66.67,33.33,0.0,0.67,0.0
+1351,San Martín de San Juan,Patronato,3,66.67,0.0,33.33,1.0,1.0
+1352,San Martín de San Juan,Talleres,3,33.33,33.33,33.33,1.33,1.67
+1353,San Martín de San Juan,Atlético de Rafaela,3,33.33,33.33,33.33,1.0,1.67
+1354,San Martín de San Juan,Quilmes,2,50.0,0.0,50.0,0.5,1.0
+1355,San Martín de San Juan,Sarmiento,2,50.0,0.0,50.0,2.0,1.5
+1356,San Martín de San Juan,Chacarita Juniors,1,100.0,0.0,0.0,4.0,1.0
+1357,San Martín de San Juan,Club Atlético Nueva Chicago,1,0.0,100.0,0.0,0.0,0.0
+1358,San Martín de San Juan,Deportivo Riestra,1,0.0,100.0,0.0,0.0,0.0
+1359,San Martín de San Juan,San Martín de Tucumán,1,0.0,0.0,100.0,0.0,2.0
+1360,San Martín de San Juan,Crucero del Norte,1,0.0,0.0,100.0,1.0,3.0
+1361,Independiente Rivadavia,Barracas Central,3,0.0,66.67,33.33,0.67,1.33
+1362,Independiente Rivadavia,Gimnasia y Esgrima (LP),2,100.0,0.0,0.0,2.0,1.0
+1363,Independiente Rivadavia,Belgrano,2,100.0,0.0,0.0,2.5,0.0
+1364,Independiente Rivadavia,Newell's Old Boys,2,50.0,50.0,0.0,0.5,0.0
+1365,Independiente Rivadavia,River Plate,2,50.0,0.0,50.0,1.0,1.5
+1366,Independiente Rivadavia,Huracán,2,50.0,0.0,50.0,1.0,0.5
+1367,Independiente Rivadavia,Argentinos Juniors,2,50.0,0.0,50.0,1.5,1.5
+1368,Independiente Rivadavia,Independiente,2,50.0,0.0,50.0,0.5,0.5
+1369,Independiente Rivadavia,Rosario Central,2,0.0,50.0,50.0,0.5,1.0
+1370,Independiente Rivadavia,Instituto,2,0.0,50.0,50.0,0.5,1.5
+1371,Independiente Rivadavia,Talleres,2,0.0,50.0,50.0,1.0,1.5
+1372,Independiente Rivadavia,Deportivo Riestra,2,0.0,50.0,50.0,0.5,1.0
+1373,Independiente Rivadavia,Atlético Tucumán,2,0.0,50.0,50.0,1.5,2.0
+1374,Independiente Rivadavia,Banfield,2,0.0,0.0,100.0,0.5,2.0
+1375,Independiente Rivadavia,Unión,2,0.0,0.0,100.0,0.5,2.5
+1376,Independiente Rivadavia,Vélez Sarsfield,2,0.0,0.0,100.0,0.0,2.5
+1377,Independiente Rivadavia,San Lorenzo,1,100.0,0.0,0.0,1.0,0.0
+1378,Independiente Rivadavia,Defensa y Justicia,1,100.0,0.0,0.0,1.0,0.0
+1379,Independiente Rivadavia,Lanús,1,100.0,0.0,0.0,2.0,0.0
+1380,Independiente Rivadavia,Sarmiento,1,100.0,0.0,0.0,1.0,0.0
+1381,Independiente Rivadavia,Tigre,1,100.0,0.0,0.0,2.0,0.0
+1382,Independiente Rivadavia,Boca Juniors,1,0.0,100.0,0.0,1.0,1.0
+1383,Independiente Rivadavia,Godoy Cruz,1,0.0,100.0,0.0,0.0,0.0
+1384,Independiente Rivadavia,Estudiantes (LP),1,0.0,100.0,0.0,1.0,1.0
+1385,Independiente Rivadavia,Racing Club,1,0.0,0.0,100.0,1.0,2.0
+1386,Independiente Rivadavia,Central Córdoba (SdE),1,0.0,0.0,100.0,0.0,2.0
+1387,Independiente Rivadavia,Platense,1,0.0,0.0,100.0,0.0,2.0
+1388,Deportivo Riestra,Lanús,2,100.0,0.0,0.0,2.5,0.5
+1389,Deportivo Riestra,Atlético Tucumán,2,100.0,0.0,0.0,1.5,0.0
+1390,Deportivo Riestra,Huracán,2,50.0,50.0,0.0,0.5,0.0
+1391,Deportivo Riestra,Independiente Rivadavia,2,50.0,50.0,0.0,1.0,0.5
+1392,Deportivo Riestra,River Plate,2,50.0,0.0,50.0,1.0,1.5
+1393,Deportivo Riestra,Argentinos Juniors,2,50.0,0.0,50.0,1.0,1.0
+1394,Deportivo Riestra,Independiente,2,50.0,0.0,50.0,1.0,1.5
+1395,Deportivo Riestra,Defensa y Justicia,2,0.0,100.0,0.0,1.0,1.0
+1396,Deportivo Riestra,Vélez Sarsfield,2,0.0,50.0,50.0,1.0,1.5
+1397,Deportivo Riestra,Banfield,2,0.0,50.0,50.0,0.5,1.5
+1398,Deportivo Riestra,Instituto,2,0.0,50.0,50.0,0.5,1.0
+1399,Deportivo Riestra,Talleres,2,0.0,50.0,50.0,0.0,0.5
+1400,Deportivo Riestra,Gimnasia y Esgrima (LP),2,0.0,50.0,50.0,0.5,1.0
+1401,Deportivo Riestra,Barracas Central,2,0.0,50.0,50.0,0.0,0.5
+1402,Deportivo Riestra,Rosario Central,2,0.0,50.0,50.0,0.5,1.5
+1403,Deportivo Riestra,Central Córdoba (SdE),1,100.0,0.0,0.0,1.0,0.0
+1404,Deportivo Riestra,San Lorenzo,1,100.0,0.0,0.0,1.0,0.0
+1405,Deportivo Riestra,Sarmiento,1,100.0,0.0,0.0,2.0,1.0
+1406,Deportivo Riestra,Boca Juniors,1,0.0,100.0,0.0,1.0,1.0
+1407,Deportivo Riestra,Newell's Old Boys,1,0.0,100.0,0.0,3.0,3.0
+1408,Deportivo Riestra,San Martín de San Juan,1,0.0,100.0,0.0,0.0,0.0
+1409,Deportivo Riestra,Unión,1,0.0,100.0,0.0,0.0,0.0
+1410,Deportivo Riestra,Platense,1,0.0,100.0,0.0,0.0,0.0
+1411,Deportivo Riestra,Racing Club,1,0.0,0.0,100.0,0.0,1.0
+1412,Deportivo Riestra,Belgrano,1,0.0,0.0,100.0,1.0,2.0
+1413,Deportivo Riestra,Godoy Cruz,1,0.0,0.0,100.0,1.0,4.0
+1414,Deportivo Riestra,Tigre,1,0.0,0.0,100.0,1.0,2.0
+1415,Deportivo Riestra,Estudiantes (LP),1,0.0,0.0,100.0,0.0,2.0
+1416,River Plate,Boca Juniors,27,40.74,29.63,29.63,1.15,0.85
+1417,River Plate,Banfield,14,57.14,28.57,14.29,1.93,0.93
+1418,River Plate,Independiente,14,50.0,28.57,21.43,1.21,0.64
+1419,River Plate,Argentinos Juniors,14,42.86,35.71,21.43,1.57,0.93
+1420,River Plate,Rosario Central,14,35.71,42.86,21.43,1.71,1.14
+1421,River Plate,Vélez Sarsfield,14,35.71,35.71,28.57,1.36,0.86
+1422,River Plate,Gimnasia y Esgrima (LP),13,76.92,15.38,7.69,2.15,0.69
+1423,River Plate,Godoy Cruz,13,61.54,7.69,30.77,1.92,0.92
+1424,River Plate,Racing Club,13,53.85,30.77,15.38,1.92,0.69
+1425,River Plate,Talleres,13,46.15,7.69,46.15,0.92,1.0
+1426,River Plate,San Lorenzo,13,38.46,30.77,30.77,1.0,0.77
+1427,River Plate,Huracán,13,23.08,38.46,38.46,1.23,1.0
+1428,River Plate,Estudiantes (LP),12,58.33,16.67,25.0,1.92,1.0
+1429,River Plate,Lanús,11,63.64,18.18,18.18,2.18,1.0
+1430,River Plate,Atlético Tucumán,11,36.36,63.64,0.0,1.36,0.64
+1431,River Plate,Colón,11,36.36,27.27,36.36,1.27,1.27
+1432,River Plate,Newell's Old Boys,10,60.0,10.0,30.0,1.9,1.2
+1433,River Plate,Unión,10,50.0,30.0,20.0,1.7,0.7
+1434,River Plate,Arsenal de Sarandí,10,30.0,50.0,20.0,1.7,1.3
+1435,River Plate,Defensa y Justicia,10,30.0,40.0,30.0,1.2,1.1
+1436,River Plate,Sarmiento,8,62.5,25.0,12.5,2.5,0.88
+1437,River Plate,Belgrano,8,62.5,12.5,25.0,1.88,1.12
+1438,River Plate,Patronato,8,62.5,0.0,37.5,2.0,1.0
+1439,River Plate,Tigre,8,37.5,37.5,25.0,1.38,1.0
+1440,River Plate,Aldosivi,7,85.71,14.29,0.0,2.0,0.43
+1441,River Plate,Platense,7,71.43,28.57,0.0,1.29,0.57
+1442,River Plate,Central Córdoba (SdE),6,100.0,0.0,0.0,3.0,0.17
+1443,River Plate,Instituto,5,80.0,20.0,0.0,2.0,0.8
+1444,River Plate,Barracas Central,5,80.0,0.0,20.0,2.6,0.6
+1446,River Plate,Club Olimpo,4,75.0,25.0,0.0,1.5,0.5
+1453,River Plate,San Martín de San Juan,4,50.0,25.0,25.0,2.0,1.0
+1462,River Plate,Quilmes,3,66.67,33.33,0.0,3.0,1.0
+1463,River Plate,Club Atlético Temperley,3,66.67,33.33,0.0,2.0,0.67
+1468,River Plate,Atlético de Rafaela,2,100.0,0.0,0.0,3.0,0.5
+1481,River Plate,Independiente Rivadavia,2,50.0,0.0,50.0,1.5,1.0
+1485,River Plate,Deportivo Riestra,2,50.0,0.0,50.0,1.5,1.0
+1487,River Plate,San Martín de Tucumán,1,100.0,0.0,0.0,2.0,1.0
+1488,River Plate,Crucero del Norte,1,100.0,0.0,0.0,1.0,0.0
+1489,River Plate,Club Atlético Nueva Chicago,1,100.0,0.0,0.0,4.0,1.0
+1490,River Plate,Chacarita Juniors,1,0.0,100.0,0.0,1.0,1.0

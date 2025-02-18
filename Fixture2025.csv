@@ -1,0 +1,241 @@
+,Fecha,Local,Visitante
+0,1,Godoy Cruz,Rosario Central
+1,1,Tigre,Vélez Sarsfield
+2,1,Barracas Central,Racing Club
+3,1,Independiente,Sarmiento
+4,1,Lanús,Deportivo Riestra
+5,1,Newell's Old Boys,Independiente Rivadavia
+6,1,Defensa y Justicia,Banfield
+7,1,San Lorenzo,Talleres
+8,1,Instituto,Gimnasia y Esgrima (LP)
+9,1,Estudiantes (LP),Unión
+10,1,Belgrano,Huracán
+11,1,San Martín de San Juan,Atlético Tucumán
+12,1,Boca Juniors,Argentinos Juniors
+13,1,Platense,River Plate
+14,2,Banfield,Newell's Old Boys
+15,1,Central Córdoba (SdE),Aldosivi
+16,2,Deportivo Riestra,San Martín de San Juan
+17,2,Rosario Central,Lanús
+18,2,Sarmiento,Godoy Cruz
+19,2,Gimnasia y Esgrima (LP),San Lorenzo
+20,2,Talleres,Independiente
+21,2,Huracán,Estudiantes (LP)
+22,2,Unión,Boca Juniors
+23,2,Independiente Rivadavia,Barracas Central
+24,2,Vélez Sarsfield,Platense
+25,2,Aldosivi,Defensa y Justicia
+26,2,Racing Club,Belgrano
+27,2,River Plate,Instituto
+28,2,Argentinos Juniors,Tigre
+29,2,Central Córdoba (SdE),Atlético Tucumán
+30,3,Barracas Central,Banfield
+31,3,San Martín de San Juan,Rosario Central
+32,3,San Lorenzo,River Plate
+33,3,Boca Juniors,Huracán
+34,3,Newell's Old Boys,Aldosivi
+35,3,Lanús,Sarmiento
+36,3,Defensa y Justicia,Central Córdoba (SdE)
+37,3,Tigre,Unión
+38,3,Estudiantes (LP),Racing Club
+39,3,Instituto,Vélez Sarsfield
+40,3,Independiente,Gimnasia y Esgrima (LP)
+41,3,Godoy Cruz,Talleres
+42,3,Argentinos Juniors,Platense
+43,3,Belgrano,Independiente Rivadavia
+44,3,Atlético Tucumán,Deportivo Riestra
+45,4,Aldosivi,Barracas Central
+46,4,Sarmiento,San Martín de San Juan
+47,4,Banfield,Belgrano
+48,4,Central Córdoba (SdE),Newell's Old Boys
+49,4,Huracán,Tigre
+50,4,Vélez Sarsfield,San Lorenzo
+51,4,Rosario Central,Atlético Tucumán
+52,4,River Plate,Independiente
+53,4,Independiente Rivadavia,Estudiantes (LP)
+54,4,Unión,Argentinos Juniors
+55,4,Deportivo Riestra,Defensa y Justicia
+56,4,Platense,Instituto
+57,4,Gimnasia y Esgrima (LP),Godoy Cruz
+58,4,Racing Club,Boca Juniors
+59,4,Talleres,Lanús
+60,5,Barracas Central,Central Córdoba (SdE)
+61,5,Estudiantes (LP),Banfield
+62,5,Boca Juniors,Independiente Rivadavia
+63,5,Deportivo Riestra,Rosario Central
+64,5,Newell's Old Boys,Defensa y Justicia
+65,5,Independiente,Vélez Sarsfield
+66,5,Argentinos Juniors,Huracán
+67,5,Tigre,Racing Club
+68,5,Belgrano,Aldosivi
+69,5,Lanús,Gimnasia y Esgrima (LP)
+70,5,San Lorenzo,Platense
+71,5,San Martín de San Juan,Talleres
+72,5,Godoy Cruz,River Plate
+73,6,Banfield,Boca Juniors
+74,5,Unión,Instituto
+75,5,Atlético Tucumán,Sarmiento
+76,6,Aldosivi,Estudiantes (LP)
+77,6,Defensa y Justicia,Barracas Central
+78,6,Central Córdoba (SdE),Belgrano
+79,6,Independiente Rivadavia,Tigre
+80,6,Newell's Old Boys,Rosario Central
+81,6,River Plate,Lanús
+82,6,Racing Club,Argentinos Juniors
+83,6,Sarmiento,Deportivo Riestra
+84,6,Gimnasia y Esgrima (LP),San Martín de San Juan
+85,6,Platense,Independiente
+86,6,Talleres,Atlético Tucumán
+87,6,Huracán,Unión
+88,6,Instituto,San Lorenzo
+89,6,Vélez Sarsfield,Godoy Cruz
+90,7,Deportivo Riestra,Talleres
+91,7,Godoy Cruz,Platense
+92,7,Estudiantes (LP),Central Córdoba (SdE)
+93,7,Independiente,Instituto
+94,7,Rosario Central,Sarmiento
+95,7,Boca Juniors,Aldosivi
+96,7,Lanús,Vélez Sarsfield
+97,7,Huracán,San Lorenzo
+98,7,Belgrano,Defensa y Justicia
+99,7,Atlético Tucumán,Gimnasia y Esgrima (LP)
+100,7,San Martín de San Juan,River Plate
+101,7,Barracas Central,Newell's Old Boys
+102,7,Argentinos Juniors,Independiente Rivadavia
+103,7,Unión,Racing Club
+104,7,Tigre,Banfield
+105,8,Boca Juniors,Rosario Central
+106,8,Aldosivi,Sarmiento
+107,8,River Plate,Estudiantes (LP)
+108,8,Central Córdoba (SdE),Deportivo Riestra
+109,8,San Martín de San Juan,Belgrano
+110,8,Argentinos Juniors,Instituto
+111,8,Independiente Rivadavia,Lanús
+112,8,Vélez Sarsfield,Huracán
+113,8,Unión,Gimnasia y Esgrima (LP)
+114,8,Talleres,Tigre
+115,8,Barracas Central,Godoy Cruz
+116,8,San Lorenzo,Racing Club
+117,8,Banfield,Independiente
+118,8,Platense,Defensa y Justicia
+119,8,Atlético Tucumán,Newell's Old Boys
+120,9,Banfield,Argentinos Juniors
+121,9,Vélez Sarsfield,San Martín de San Juan
+122,9,San Lorenzo,Independiente
+123,9,Racing Club,Huracán
+124,9,Central Córdoba (SdE),Boca Juniors
+125,9,Aldosivi,Tigre
+126,9,Defensa y Justicia,Estudiantes (LP)
+127,9,River Plate,Atlético Tucumán
+128,9,Platense,Lanús
+129,9,Sarmiento,Barracas Central
+130,9,Gimnasia y Esgrima (LP),Deportivo Riestra
+131,9,Instituto,Godoy Cruz
+132,9,Newell's Old Boys,Belgrano
+133,9,Independiente Rivadavia,Unión
+134,9,Talleres,Rosario Central
+135,10,Argentinos Juniors,Aldosivi
+136,10,Deportivo Riestra,River Plate
+137,10,Rosario Central,Gimnasia y Esgrima (LP)
+138,10,Estudiantes (LP),Newell's Old Boys
+139,10,Godoy Cruz,San Lorenzo
+140,10,Independiente,Racing Club
+141,10,Boca Juniors,Defensa y Justicia
+142,10,Huracán,Independiente Rivadavia
+143,10,Sarmiento,Talleres
+144,10,Unión,Banfield
+145,10,Tigre,Central Córdoba (SdE)
+146,10,Belgrano,Barracas Central
+147,10,Lanús,Instituto
+148,10,Atlético Tucumán,Vélez Sarsfield
+149,10,San Martín de San Juan,Platense
+150,11,Newell's Old Boys,Boca Juniors
+151,11,Central Córdoba (SdE),Argentinos Juniors
+152,11,Independiente Rivadavia,Racing Club
+153,11,Vélez Sarsfield,Deportivo Riestra
+154,11,Defensa y Justicia,Tigre
+155,11,Belgrano,Talleres
+156,11,Instituto,San Martín de San Juan
+157,11,Barracas Central,Estudiantes (LP)
+158,11,Aldosivi,Unión
+159,11,San Lorenzo,Lanús
+160,11,Independiente,Godoy Cruz
+161,11,Gimnasia y Esgrima (LP),Sarmiento
+162,11,River Plate,Rosario Central
+163,11,Banfield,Huracán
+164,11,Platense,Atlético Tucumán
+165,12,Sarmiento,River Plate
+166,12,Talleres,Gimnasia y Esgrima (LP)
+167,12,Godoy Cruz,Independiente Rivadavia
+168,12,Unión,Central Córdoba (SdE)
+169,12,Tigre,Newell's Old Boys
+170,12,San Martín de San Juan,San Lorenzo
+171,12,Lanús,Independiente
+172,12,Deportivo Riestra,Platense
+173,12,Boca Juniors,Barracas Central
+174,12,Estudiantes (LP),Belgrano
+175,12,Huracán,Aldosivi
+176,12,Atlético Tucumán,Instituto
+177,12,Rosario Central,Vélez Sarsfield
+178,12,Racing Club,Banfield
+179,12,Argentinos Juniors,Defensa y Justicia
+180,13,Vélez Sarsfield,Sarmiento
+181,13,Platense,Rosario Central
+182,13,Banfield,Independiente Rivadavia
+183,13,Godoy Cruz,Lanús
+184,13,River Plate,Talleres
+185,13,Defensa y Justicia,Unión
+186,13,Instituto,Deportivo Riestra
+187,13,Aldosivi,Racing Club
+188,13,Central Córdoba (SdE),Huracán
+189,13,Barracas Central,Tigre
+190,13,Independiente,San Martín de San Juan
+191,13,Belgrano,Boca Juniors
+192,13,Newell's Old Boys,Argentinos Juniors
+193,13,San Lorenzo,Atlético Tucumán
+194,13,Gimnasia y Esgrima (LP),Estudiantes (LP)
+195,14,Boca Juniors,Estudiantes (LP)
+196,14,San Martín de San Juan,Godoy Cruz
+197,14,Racing Club,Central Córdoba (SdE)
+198,14,Huracán,Defensa y Justicia
+199,14,Tigre,Belgrano
+200,14,Gimnasia y Esgrima (LP),River Plate
+201,14,Atlético Tucumán,Independiente
+202,14,Rosario Central,Instituto
+203,14,Sarmiento,Platense
+204,14,Unión,Newell's Old Boys
+205,14,Deportivo Riestra,San Lorenzo
+206,14,Talleres,Vélez Sarsfield
+207,14,Independiente Rivadavia,Aldosivi
+208,14,Argentinos Juniors,Barracas Central
+209,14,Lanús,Banfield
+210,15,Vélez Sarsfield,Gimnasia y Esgrima (LP)
+211,15,San Lorenzo,Rosario Central
+212,15,Defensa y Justicia,Racing Club
+213,15,Central Córdoba (SdE),Independiente Rivadavia
+214,15,Estudiantes (LP),Tigre
+215,15,Aldosivi,Banfield
+216,15,Instituto,Sarmiento
+217,15,River Plate,Boca Juniors
+218,15,Platense,Talleres
+219,15,Godoy Cruz,Atlético Tucumán
+220,15,Newell's Old Boys,Huracán
+221,15,Barracas Central,Unión
+222,15,Lanús,San Martín de San Juan
+223,15,Belgrano,Argentinos Juniors
+224,15,Independiente,Deportivo Riestra
+225,16,San Martín de San Juan,Aldosivi
+226,16,Rosario Central,Independiente
+227,16,Tigre,Boca Juniors
+228,16,Deportivo Riestra,Godoy Cruz
+229,16,Argentinos Juniors,Estudiantes (LP)
+230,16,Huracán,Barracas Central
+231,16,Gimnasia y Esgrima (LP),Platense
+232,16,River Plate,Vélez Sarsfield
+233,16,Unión,Belgrano
+234,16,Talleres,Instituto
+235,16,Independiente Rivadavia,Defensa y Justicia
+236,16,Sarmiento,San Lorenzo
+237,16,Racing Club,Newell's Old Boys
+238,16,Atlético Tucumán,Lanús
+239,16,Banfield,Central Córdoba (SdE)
