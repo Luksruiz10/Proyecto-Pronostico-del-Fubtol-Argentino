@@ -14,7 +14,7 @@ Este proyecto utiliza **ciencia de datos** y **aprendizaje automático** para pr
 - Scikit-learn 🤖
 
 ## 📷 Ejemplo de visualización
-![Grafico Grupos]("Ejemplo de Prediccion Fase de grupos.png")
+![Grafico Grupos]("Capturas/Ejemplo de Prediccion Fase de grupos.png")
 ![Grafico Octavos]("Ejemplo de Octavos.png")
 ![Grafico Cuartos]("Ejemplo de Cuartos.png")
 ![Grafico Semis]("Ejemplo de Semis.png")
