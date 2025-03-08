@@ -15,8 +15,8 @@ Este proyecto utiliza **ciencia de datos** y **aprendizaje automático** para pr
 
 ## 📷 Ejemplo de visualización
 ![Grafico Grupos](Capturas/Ejemplo_de_Prediccion_Fase_de_grupos.png)
-![Grafico Octavos]("Capturas/Ejemplo_de_Octavos.png")
-![Grafico Cuartos]("Capturas/Ejemplo_de_Cuartos.png")
-![Grafico Semis]("Capturas/Ejemplo_de_Semis.png")
-![Grafico Final]("Capturas/Ejemplo_de_Final.png")
-![Grafico de Probabilidades de ganar el torneo]("Capturas/Probabilidad_de_ganar_el_torneo.png")
+![Grafico Octavos](Capturas/Ejemplo_de_Octavos.png)
+![Grafico Cuartos](Capturas/Ejemplo_de_Cuartos.png)
+![Grafico Semis](Capturas/Ejemplo_de_Semis.png)
+![Grafico Final](Capturas/Ejemplo_de_Final.png)
+![Grafico de Probabilidades de ganar el torneo](Capturas/Probabilidad_de_ganar_el_torneo.png)
