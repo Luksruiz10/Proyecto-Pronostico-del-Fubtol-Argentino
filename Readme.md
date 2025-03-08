@@ -14,9 +14,9 @@ Este proyecto utiliza **ciencia de datos** y **aprendizaje automático** para pr
 - Scikit-learn 🤖
 
 ## 📷 Ejemplo de visualización
-![Grafico Grupos](<Ejemplo de Prediccion Fase de grupos.png>)
-![Grafico Octavos](<Ejemplo de Octavos.png>)
-![Grafico Cuartos](<Ejemplo de Cuartos.png>)
-![Grafico Semis](<Ejemplo de Semis.png>)
-![Grafico Final](<Ejemplo de Final.png>)
-![Grafico de Probabilidades de ganar el torneo](<Probabilidad de ganar el torneo.png>)
+![Grafico Grupos]("Ejemplo de Prediccion Fase de grupos.png")
+![Grafico Octavos]("Ejemplo de Octavos.png")
+![Grafico Cuartos]("Ejemplo de Cuartos.png")
+![Grafico Semis]("Ejemplo de Semis.png")
+![Grafico Final]("Ejemplo de Final.png")
+![Grafico de Probabilidades de ganar el torneo]("Probabilidad de ganar el torneo.png")
